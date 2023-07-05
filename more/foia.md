@@ -10,21 +10,21 @@ The 1967 Freedom of Information Act (FOIA) provides a legal mechanism for reques
 
 HigherGov makes it easy for anyone to quickly and easily obtain information through a FOIA request.  When you submit a FOIA request through HigherGov, we request:
 
-1. **Statement of Work:** Typically includes required and optional tasks, pricing, and schedule of deliverables for an existing contract.
+1. **Statement of Work:** Typically includes required and optional tasks and a schedule of deliverables for an existing contract. Note that pricing details may be redacted by the government prior to release.
 2. **Bidders Lists:**  See who submitted a bid or application for a contract or grant.&#x20;
 
 {% hint style="info" %}
 In order to submit a FOIA request, you must have an annual HigherGov subscription.
 {% endhint %}
 
-### Benefits of Submitting Through HigherGov
+### Benefits of the HigherGov FOIA Service
 
 There are many benefits to submitting FOIA requests through HigherGov:
 
-1. **Fast and Easy**: We do all the work to identify and coordinate with the proper government agency and use our experience to get the most information possible as quickly as possible so you can focus on other aspects of your RFP.
+1. **Fast and Easy**: We do all the work to identify and coordinate with the proper government agency and use our experience to get the most information possible as quickly as possible so you can focus on other aspects of business development.
 2. **Anonymous**: When you submit a FOIA request through HigherGov, we make the request in our own name, which prevents competitors or teaming members from determining that you are the one who made the request.
 3. **Don't Annoy Your Customer**: Since HigherGov is the entity making the request, you reduce the risk of annoying your agency customer with the FOIA request.
-4. **HigherGov Records Search**: As part of our FOIA service, HigherGov conducts a separate search of public records to see if we can unearth any other information or documents that may be useful.
+4. **HigherGov Records Search**: As part of our FOIA service, HigherGov conducts a separate search of public records and our private FOIA library to see if we can unearth any other information or documents that may be useful.
 
 ## Process of Submitting a Request Through HigherGov
 
@@ -46,14 +46,28 @@ The only information required to submit a FOIA request is the Award ID, which we
 * **Budget**: While most FOIA requests have government costs between $0-100, we recommend setting a budget of $100.  See Timeframe and Costs below for more details.
 * **Comments**: If there is any additional information you would like us to know about your request, please include it here.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### Timeframe and Costs
+### Request Timeframe
 
 Under the law, all federal agencies are required to respond to a FOIA request within 20 business days, unless there are "unusual circumstances."  While we work with agencies to get information as fast as possible, we recommend submitting a FOIA request as early as possible to ensure that you receive the documentation in a timely manner.  Typically response times vary from 1-6 months depending on the agency, but in some cases can take as long as a year. &#x20;
 
-HigherGov charges a flat fee of $50 for making a FOIA request for Starter plan users (HigherGov fees are waived for a limited number of requests for Standard and Leader plan subscribers).  In addition, the federal government charges fees for searching for documents, typically at a rate of $25-75 per hour.  When submitting a FOIA request, HigherGov allows you to set a Budget to expedite your request.  If you do not set a budget, we will try to get an estimate from the federal agency and seek your approval before continuing with the request, which may extend the timeframe.&#x20;
+### Fees
+
+HigherGov charges a flat fee of $50 for making a FOIA request (for Standard and Leader subscribers, see waivers section below).  In addition, the federal government charges fees for searching for documents, typically at a rate of $25-75 per hour. &#x20;
+
+When submitting a FOIA request, HigherGov allows you to set a Budget to expedite your request.  If you do not set a budget, we will try to get an estimate from the federal agency and seek your approval before continuing with the request, which may extend the timeframe.&#x20;
 
 {% hint style="info" %}
 While most FOIA requests cost less, we strongly recommend setting a budget of at least $100 for your request to prevent any delays.
 {% endhint %}
+
+### Fee Waivers
+
+HigherGov will waive its fee for a limited number of FOIA requests per subscription year, depending on the subscription plan:
+
+* Starter: 0
+* Standard: 3
+* Leader: 10
+
+The total number of waivers remaining on your account will appear beneath the HigherGov Fee section on the FOIA Request page.
