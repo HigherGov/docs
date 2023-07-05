@@ -53,6 +53,6 @@ Typical organization news and events that may be covered:
 
 If your organization does not directly win government contracts or grants that would typically be covered, you may alternatively submit research or thought leadership for potential inclusion in our Insights to Lead. &#x20;
 
-To be included, submissions must be of high quality and provide original research or insights, and have minimal promotional language. &#x20;
+To be included, submissions must be of high quality, provide original research or insights, and have minimal promotional language. &#x20;
 
 HigherGov reserves the right to accept or reject submissions at its own discretion.
