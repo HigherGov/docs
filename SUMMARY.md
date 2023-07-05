@@ -41,4 +41,4 @@
 
 * [API](more/api.md)
 * [FAQ](more/faq.md)
-* [FOIA](more/foia.md)
+* [FOIA Service](more/foia-service.md)
