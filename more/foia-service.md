@@ -2,7 +2,7 @@
 description: How to quickly and anonymously submit FOIA requests
 ---
 
-# FOIA
+# FOIA Service
 
 Why Submit a FOIA Request
 
@@ -46,7 +46,7 @@ The only information required to submit a FOIA request is the Award ID, which we
 * **Budget**: While most FOIA requests have government costs between $0-100, we recommend setting a budget of $100.  See Timeframe and Costs below for more details.
 * **Comments**: If there is any additional information you would like us to know about your request, please include it here.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Request Timeframe
 

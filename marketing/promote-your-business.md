@@ -18,7 +18,7 @@ Customizing your awardee profile allows you to provide a capability statement an
 
 To customize your Awardee profile, open your [HigherGov Account](https://www.highergov.com/account/), complete the information under the Customize Awardee Profile section, and select Highlight Profile.  Once complete, select Update.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Marketing Booster
 
@@ -34,9 +34,13 @@ For subscribers that enable the feature, we will track notable contract or grant
 
 Our news and analysis coverage is also often picked up by other government industry and broader news organizations. &#x20;
 
-To turn on Marketing Booster, go to your [Account](https://www.highergov.com/account/) page and turn on the Marketing Booster.
+To turn on Marketing Booster, go to your [Account](https://www.highergov.com/account/) page and select the toggle in the Marketing Booster section.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Within a couple days of turning on the Marketing Booster, you can click on the **See Statistics** button to see the total number of views your organization has had in its Awardee profile, in the Partner Finder, and in News and Insights.  Note that it may take a few days for the marketing statistics to populate (it will likely take longer for any reports to appear)&#x20;
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### News and Notable Events
 

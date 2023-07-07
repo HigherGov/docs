@@ -28,7 +28,7 @@ Once you type in a keyword or set of keywords, tabs will highlight where results
 
 All major datasets within HigherGov have a Category Search screen listed in the sidebar.  Most of these screens work similarly, although the exact filters available will vary based on underlying data.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The buttons that are available on the Category Search pages include:
 
