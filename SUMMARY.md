@@ -2,6 +2,7 @@
 
 * [The HigherGov Docs](README.md)
 * [Search Basics](search-basics.md)
+* [Saved Searches](saved-searches.md)
 
 ## Find Opportunities
 
