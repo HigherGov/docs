@@ -6,7 +6,7 @@ description: Save Searches and Receive Automated Alerts
 
 ## Saving a Search
 
-On all Category Search pages on HigherGov, you can save a search by running a desired search, pressing the Save button, entering a Search Name, setting the Email Notification Updates frequency (optional), and pressing Save. &#x20;
+On all Category Search pages on HigherGov once you have run a search, you can save that search by pressing the Save button, entering a Search Name, setting the Email Notification Updates frequency (optional), and pressing Save. &#x20;
 
 ![](<.gitbook/assets/image (13).png>)
 
@@ -18,7 +18,7 @@ When saving a Search, you can also opt-in to receive an email notification when 
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Saved Search Notifications are available for all search categories that receive frequent updates.  You can stop future notifications by pressing the Unsubscribe link in the notification email or on the Saved Search page (see below).&#x20;
+Saved Search Notifications are available for all search categories that receive frequent updates.  Stop future notifications by pressing the Unsubscribe link in the notification email or on the Saved Search page (see below).&#x20;
 
 ### Automatic Notifications
 
