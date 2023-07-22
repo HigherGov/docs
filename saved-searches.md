@@ -28,13 +28,13 @@ Many detail pages on HigherGov, including Awardee, Government People, and Agency
 
 ## Opening a Saved Search
 
-You can access your saved searches at any time by selecting the dropdown arrow next to the Save button and selecting the name of the saved search you would like to Open.&#x20;
+You can access your saved searches at any time by selecting the dropdown arrow next to the Save button and selecting the name of the saved search you would like to open.&#x20;
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Managing Saved Searches
 
-To see and manage your and your team's saved searches, select the Saved Searches option in the sidebar at the bottom of the page.  Here, you can view results, change the email notification frequency, and delete saved searches. &#x20;
+To see and manage your and your team's saved searches, select the [Saved Searches](https://www.highergov.com/search/) option in the sidebar at the bottom of the page.  Here, you can view results, change the email notification frequency, and delete saved searches. &#x20;
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
