@@ -16,7 +16,7 @@ Most Contract Opportunity pages will show an automatically generated list of pot
 
 ![](<../.gitbook/assets/Screenshot 2022-06-15 020940.png>)
 
-Note that for historical contract opportunities, HigherGov lists potential competing bidders as if the contract opportunity was being competed today. This can be helpful in identifying contractors that may have bid on an opportunity and not won or identifying who would potentially bid if an historical opportunity is reopened or recompeted in the future. &#x20;
+Note that for historical contract opportunities, HigherGov lists potential competing bidders as if the contract opportunity was being competed today. This can be helpful in identifying contractors that may have bid on an opportunity and not won or identifying who would potentially bid if a historical opportunity is reopened or recompeted in the future. &#x20;
 
 ### In Pursuits
 
@@ -56,9 +56,5 @@ Many contractors will also have pricing available in the [Labor Pricing](https:/
 
 {% content-ref url="../find-opportunities/find-federal-prime-contract-opportunities.md" %}
 [find-federal-prime-contract-opportunities.md](../find-opportunities/find-federal-prime-contract-opportunities.md)
-{% endcontent-ref %}
-
-{% content-ref url="track-pursuits-collaborate-and-manage-pipelines.md" %}
-[track-pursuits-collaborate-and-manage-pipelines.md](track-pursuits-collaborate-and-manage-pipelines.md)
 {% endcontent-ref %}
 

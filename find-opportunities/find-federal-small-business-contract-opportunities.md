@@ -38,13 +38,23 @@ Many federal agencies will notify the contracting community of their intent to i
 
 ![](../.gitbook/assets/pre-rfp-opp.png)
 
-### SBIR / STTR
+### SBIR / STTRs
 
 {% hint style="info" %}
 Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs encourage domestic small businesses to engage in Federal Research/Research and Development (R/R\&D) with the potential for commercialization.
 {% endhint %}
 
-SBIR and STTR opportunities are available on the Grants Opportunities page by going to _Opportunities --> Grants_ in the sidebar (SBIR/STTRs are structured as either contracts or grants depending on the agency). &#x20;
+SBIR and STTR opportunities are available on the Grants Opportunities page by going to _Opportunities --> Grants_ in the sidebar.  SBIR/STTRs can be structured either as contracts or grants depending on the agency.
+
+SBIR / STTRs are broken into three phases:&#x20;
+
+* **Phase I**: Applicants submit a proposal outlining their proposed project which is evaluated by the sponsoring agency. If selected, applicants receive up to $250 thousand in funding to develop a prototype or proof-of-concept.
+* **Phase II**: Successful applicants from Phase I can receive up to $1 million in funding to further refine the prototype or concept with an emphasis on marketability and commercialization potential.
+* **Phase III:** Awardees are encouraged to seek private sector investment or venture capital funding as they transition their product into the marketplace.  In some cases, Phase III can include non-SBIR contracts from the government for continued development or for production.  These contracts can range into the tens of millions of dollars.
+
+{% hint style="info" %}
+You can learn more about the long-term trends and benefits of SBIR awards in our [annual report](https://www.highergov.com/news/sbir-awards-reach-record-high-2023/).
+{% endhint %}
 
 ## Potential Set-Aside Recompetes
 

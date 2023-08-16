@@ -22,18 +22,18 @@ Common search filters include:
 * **PSC**: Limit results to contracts that are classified under a particular Product Services Code
 * **State**: Limit results to where the issuing agency is within a specific state or region
 
-<figure><img src="../.gitbook/assets/screenshot1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Saving Searches
 
-On the Contract Opportunity Search page (as well as all other Search pages on HigherGov), you can press the Save button to save your search to easily access later.  When saving a Search you can also opt-in to receive an email notification when there have been new results for the search.  You can access your saved searches at any time by selecting the dropdown arrow next to the Save button or by going to to _Tools --> Saved Searches_ in the sidebar.
+On the Contract Opportunity Search page (as well as all other Search pages on HigherGov), you can press the Save button to save your search to easily access later.  When saving a Search you can also opt-in to receive an email notification when there have been new results for the search.  You can access your saved searches at any time by selecting the dropdown arrow next to the Save button or by going to _Tools --> Saved Searches_ in the sidebar.
 
 ### Daily Recommendations
 
-You can also opt-in to receive a daily email of recommended contract opportunities by singing in and selecting the gear icon in the upper right, going to Profile, and switching on **Daily SLED Opportunities Email**.  For annual subscribers, this email will be customized to the most relevant opportunities based on the contractor they work for.
+You can also opt-in to receive a daily email of recommended contract opportunities by signing in and selecting the gear icon in the upper right, going to Profile, and switching on **Daily State and Local Opportunities Email**.  For annual subscribers, this email will be customized to the most relevant opportunities based on the contractor they work for.
 
 {% hint style="info" %}
-HigherGov covers 7,000+ SLED agencies representing the vast majority of spending.  To request additional agencies, please email us or contact us in the chat. &#x20;
+HigherGov covers 10,000+ State, Local, and Education agencies in all 50 states, Washington D.C., and U.S. territories.
 {% endhint %}
 
 ## Finding Additional Information and Applying
@@ -43,10 +43,6 @@ By selecting a contract opportunity, you can see the opportunity description as 
 <figure><img src="../.gitbook/assets/screenshot2.png" alt=""><figcaption></figcaption></figure>
 
 
-
-{% content-ref url="../business-development/track-pursuits-collaborate-and-manage-pipelines.md" %}
-[track-pursuits-collaborate-and-manage-pipelines.md](../business-development/track-pursuits-collaborate-and-manage-pipelines.md)
-{% endcontent-ref %}
 
 {% content-ref url="find-federal-prime-contract-opportunities.md" %}
 [find-federal-prime-contract-opportunities.md](find-federal-prime-contract-opportunities.md)

@@ -4,15 +4,11 @@ description: >-
   Development Team, Project the Future, and Make Adjustments
 ---
 
-# Review Business Development Performance
-
-{% hint style="info" %}
-HigherGov offers a fully featured integrated CRM designed for government contracting and grant organizations.  The CRM integrates the best practices of leading capture professionals and can be set up in minutes.  If you are not currently a subscriber you can try out the CRM by [signing up](https://www.highergov.com/signup/) for a trial or scheduling a [demo](https://www.highergov.com/demo/).&#x20;
-{% endhint %}
+# Review Pipeline and Performance
 
 ## Pipeline Analysis
 
-To start an analysis of your pipeline(s), select Business _Development --> Pipelines_ in the sidebar or click [here](https://www.highergov.com/pipeline/) (must be signed in).  Along the top of the page, you can filter the analysis by Pipeline and Pursuit owner, which allows you to better understand the performance of teams or individual team members. &#x20;
+To start an analysis of your pipeline(s), select Business _Development --> Pipelines_ in the sidebar or click [here](https://www.highergov.com/pipeline/).  Along the top of the page, you can filter the analysis by Pipeline and Pursuit owner, which allows you to better understand the performance of teams or individual team members. &#x20;
 
 <div align="left">
 
@@ -52,11 +48,17 @@ Shows opportunity Win / Loss rates and can be analyzed by dollar and count and b
 
 ![](../.gitbook/assets/win-loss.png)
 
-## Related Pages
+### Calendar
 
-{% content-ref url="track-pursuits-collaborate-and-manage-pipelines.md" %}
-[track-pursuits-collaborate-and-manage-pipelines.md](track-pursuits-collaborate-and-manage-pipelines.md)
-{% endcontent-ref %}
+The Calendar tab shows all historical and upcoming pursuits and activities for the selected Pipelines / Owners.  This calendar is also available from your Dashboard when you sign in.
+
+### Bulk Pursuit Editor
+
+Need to make adjustments quickly?  The Pursuits tab in the Pipeline Review allows for rapidly changing proposal due date, pursuit stage, p(win), p(go), and estimated value for multiple pursuits quickly.  The Pipeline Analysis will be automatically updated after adjustments are made.
+
+![](<../.gitbook/assets/bulk edit.png>)
+
+## Related Pages
 
 {% content-ref url="../find-opportunities/find-federal-prime-contract-opportunities.md" %}
 [find-federal-prime-contract-opportunities.md](../find-opportunities/find-federal-prime-contract-opportunities.md)

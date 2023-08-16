@@ -14,11 +14,11 @@ Additionally, there are Quick search options to rapidly narrow down contract opp
 
 As you find potentially interesting contract opportunities, you can click the opportunity title to open up the Contract Opportunity detail page to see the opportunity description, history, related solicitations, documents, similar opportunities, potential bidders, and other detail.  You can also follow the opportunity by clicking the heart button to easily access it later.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-06-15 010132.png>)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Saving Searches
 
-On the Contract Opportunity Search page (as well as most other Search pages on HigherGov), you can press the Save button to save a copy of your search to access later.  When saving a Search you can also opt-in to receive an email notification when there have been new results for the search.  You can access your saved searches at any time by selecting the dropdown arrow next to the Save button or by going to _Tools --> Saved Searches_ in the sidebar.&#x20;
+On the Contract Opportunity Search page (as well as most other Search pages on HigherGov), you can press the Save button to save your search to access later.  When saving a Search you can also opt-in to receive an email notification when there have been new results for the search.  You can access your saved searches at any time by selecting the dropdown arrow next to the Save button or by going to _Tools --> Saved Searches_ in the sidebar.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-06-15 010535.png>)
 
@@ -60,8 +60,8 @@ You can also search for potential recompetes for competitors or other awardees t
 [find-federal-subcontract-opportunities.md](find-federal-subcontract-opportunities.md)
 {% endcontent-ref %}
 
-{% content-ref url="../business-development/track-pursuits-collaborate-and-manage-pipelines.md" %}
-[track-pursuits-collaborate-and-manage-pipelines.md](../business-development/track-pursuits-collaborate-and-manage-pipelines.md)
+{% content-ref url="find-dla-opportunities.md" %}
+[find-dla-opportunities.md](find-dla-opportunities.md)
 {% endcontent-ref %}
 
 {% content-ref url="../market-intelligence/find-and-analyze-government-contracts.md" %}

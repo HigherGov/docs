@@ -53,11 +53,12 @@ The sections available on the detail page will depend on the type of award and t
 
 ## Finding Additional Information
 
-Sometimes the descriptions provided by the government do not provide much detail on the type of work actually being performed.  Below are resources to find additional information:
+Sometimes the descriptions provided by the government do not provide much detail on the type of work actually being performed.  Below are resources to find additional information about a contract:
 
 * **Related Opportunity**: Many contract awards have a linked contract opportunity in the Overview section, which can provide additional detail (make sure to check contract opportunity documents and links, which often include a statement of work or additional descriptions).
 * **Parent Award**: The descriptions and categories of the parent award(s) (master contract vehicle, IDV, or prime contract as applicable) will often provide additional detail about the general types of work being performed.
 * **FOIA Request**: A Freedom of Information Act request can be made to the awarding agency requesting the statement of work.
+* **Contracting Officer**: Most IDV and contract pages will list a set of People associated with the contract (and/or the relevant small business office) that you may be able to reach out to obtain additional information about the contract.
 
 ## Additional Resources
 

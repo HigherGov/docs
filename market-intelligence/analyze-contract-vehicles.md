@@ -17,7 +17,7 @@ There are three primary ways to search for a Vehicle on HigherGov:
 ![](../.gitbook/assets/vehicle\_ranking.png)
 
 {% hint style="info" %}
-HigherGov covers more than 4,000 contract vehicles representing the vast majority of multi-award contract vehicles by dollar awarded.  If you are an annual subscriber and need an analysis of a contract vehicle we do not currently cover, please [contact us](mailto:contact@highergov.com) or reach out in the chat.
+HigherGov covers more than 4,000 contract vehicles representing the vast majority of multi-award contract vehicles by dollars awarded.  If you are an annual subscriber and need an analysis of a contract vehicle we do not currently cover, please [contact us](mailto:contact@highergov.com) or reach out in the chat.
 {% endhint %}
 
 ## Analyze a Contract Vehicle
@@ -44,7 +44,7 @@ Note that you can also analyze vehicle award share for different time periods an
 
 ### Funding Analysis
 
-The funding analysis tools enbales you to analyze the obligations under the contract Vehicle by:
+The funding analysis tool enbales you to analyze the obligations under the contract Vehicle by:
 
 * **Trends**: Trend in obligations
 * **Shares**: Percentage of awards by categories including Agencies, NAICS, PSC, Set Aside, and more

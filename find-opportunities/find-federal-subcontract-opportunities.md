@@ -10,9 +10,9 @@ description: >-
 
 ### Contract Search
 
-The quickest way to search for potential subcontract opportunities is to go to the Contracts search page under _Market Intelligence --> Contracts_ or click [here](https://www.highergov.com/contract/) and select the **Subcontract Opps** Quick filter. This will filter for contracts that have recently been awarded with a required subcontracting plan. You can add your own filters such as **Agency**, **NAICS**, **Set Aside** or other filter to further focus on the most relevant contracts for your business.
+The quickest way to search for potential subcontract opportunities is to go to the Contracts search page under _Market Intelligence --> Contracts_ or click [here](https://www.highergov.com/contract/) and select the **Subcontract Opps** Quick filter. This will filter for contracts that have recently been awarded with a required subcontracting plan. You can add your own filters such as **Agency**, **NAICS**, or **Set Aside** to further focus on the most relevant contracts for your business.
 
-![](<../.gitbook/assets/Screenshot 2022-06-15 012806.png>)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Subcontracting Plans
 
@@ -45,7 +45,7 @@ Learn more about researching Awardees here:
 To find subcontracts that the Awardee has made in the past, go to _Market Intelligence --> Contracts_ (or click [here](https://www.highergov.com/contract/)) and select the **Prime Awardee (Sub Only)** filter and search for the relevant Awardee. &#x20;
 
 {% hint style="info" %}
-Please note that subcontract data is reported by Prime contractors and the consistency and quality of data is low.  To enhance the quality and reliability of this data, HigherGov removes or adjusts a significant percentage of reported subcontracts that are likely duplicates or otherwise inaccurate. &#x20;
+Please note that subcontract data is reported by Prime contractors and the consistency and quality of data will vary.  To enhance the quality and reliability of this data, HigherGov removes or adjusts a significant percentage of reported subcontracts that are likely duplicates or otherwise inaccurate. &#x20;
 {% endhint %}
 
 ## Additional Resources
@@ -56,9 +56,5 @@ Please note that subcontract data is reported by Prime contractors and the consi
 
 {% content-ref url="../business-development/find-teaming-partners.md" %}
 [find-teaming-partners.md](../business-development/find-teaming-partners.md)
-{% endcontent-ref %}
-
-{% content-ref url="../business-development/track-pursuits-collaborate-and-manage-pipelines.md" %}
-[track-pursuits-collaborate-and-manage-pipelines.md](../business-development/track-pursuits-collaborate-and-manage-pipelines.md)
 {% endcontent-ref %}
 

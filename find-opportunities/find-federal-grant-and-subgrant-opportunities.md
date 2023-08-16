@@ -48,10 +48,6 @@ The quickest way to search for potential subgrant opportunities is to go to the 
 
 ## Related Pages
 
-{% content-ref url="../business-development/track-pursuits-collaborate-and-manage-pipelines.md" %}
-[track-pursuits-collaborate-and-manage-pipelines.md](../business-development/track-pursuits-collaborate-and-manage-pipelines.md)
-{% endcontent-ref %}
-
 {% content-ref url="../market-intelligence/find-and-analyze-government-grants.md" %}
 [find-and-analyze-government-grants.md](../market-intelligence/find-and-analyze-government-grants.md)
 {% endcontent-ref %}

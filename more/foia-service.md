@@ -4,7 +4,7 @@ description: How to quickly and anonymously submit FOIA requests
 
 # FOIA Service
 
-Why Submit a FOIA Request
+### Why Submit a FOIA Request
 
 The 1967 Freedom of Information Act (FOIA) provides a legal mechanism for requesting unreleased information and documents controlled by the United States government.  FOIA requests are a method that sophisticated government contractors use to learn more about existing contracts or grants to better position themselves for future opportunities.&#x20;
 
@@ -46,7 +46,7 @@ The only information required to submit a FOIA request is the Award ID, which we
 * **Budget**: While most FOIA requests have government costs between $0-100, we recommend setting a budget of $100.  See Timeframe and Costs below for more details.
 * **Comments**: If there is any additional information you would like us to know about your request, please include it here.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Request Timeframe
 
