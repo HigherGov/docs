@@ -53,7 +53,7 @@ If you want to bid on the opportunity, you can select the Quote option next to S
 
 ## Analyzing NATO Stock Numbers
 
-You can learn more information about a given NSN, by selecting the NSN listed in the purchase request.  This page will include additional details about the NSN including data from DLA's Federal Logistics Information System (FLIS) and other information gathered and tracked by HigherGov.&#x20;
+You can learn more information about a given NSN by selecting the NSN listed in the purchase request.  This page will include additional details about the NSN including data from DLA's Federal Logistics Information System (FLIS) and other information gathered and tracked by HigherGov.&#x20;
 
 The information included on this page includes:
 
