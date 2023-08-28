@@ -16,6 +16,16 @@ As you find potentially interesting contract opportunities, you can click the op
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+You may also want to:
+
+{% content-ref url="find-federal-opportunities-before-rfp-release.md" %}
+[find-federal-opportunities-before-rfp-release.md](find-federal-opportunities-before-rfp-release.md)
+{% endcontent-ref %}
+
+{% content-ref url="find-dla-opportunities.md" %}
+[find-dla-opportunities.md](find-dla-opportunities.md)
+{% endcontent-ref %}
+
 ### Saving Searches
 
 On the Contract Opportunity Search page (as well as most other Search pages on HigherGov), you can press the Save button to save your search to access later.  When saving a Search you can also opt-in to receive an email notification when there have been new results for the search.  You can access your saved searches at any time by selecting the dropdown arrow next to the Save button or by going to _Tools --> Saved Searches_ in the sidebar.&#x20;
