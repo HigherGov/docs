@@ -43,7 +43,7 @@ Lists similar recent transactions with disclosed financial metrics. Similar tran
 
 ## Analyzing Trends
 
-To access M\&A transaction analysis tools go to _Explore --> Analysis_ in the sidebar and select the Transactions link at the top or click [here](https://www.highergov.com/analysis/transaction/). &#x20;
+To access M\&A transaction analysis tools go to _Explore --> Analysis_ in the sidebar and select the M\&A link at the top or click [here](https://www.highergov.com/analysis/transaction/). &#x20;
 
 ### Multiple Analysis
 
