@@ -22,7 +22,7 @@ Common search filters include:
 * **PSC**: Limit results to contracts that are classified under a particular Product Services Code
 * **State**: Limit results to where the issuing agency is within a specific state or region
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Saving Searches
 

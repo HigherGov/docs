@@ -4,13 +4,13 @@ description: >-
   Agencies and Products / Services
 ---
 
-# Find Contracting and Grant Entry Points
+# Market Analysis Tool
 
 ## **Finding The Best Areas For Expansion**
 
 ### **Custom Analysis**
 
-The HigherGov analysis tool can create custom analyses to research and analyze potential areas for expansion.  To access the analysis tool, go to _Explore --> Analysis_ in the sidebar or [click](https://www.highergov.com/analysis/award/) here (must be signed in).  Common filters to set include **Agency (Awarding)**, **NAICS**, **PSC**, **Set Aside**, and **Assistance Type**. &#x20;
+The HigherGov Market Research Tool can create custom analyses to research and analyze potential areas for expansion.  To access the analysis tool, go to _Explore --> Analysis_ in the sidebar or [click](https://www.highergov.com/analysis/award/) here.  Common filters to set include **Agency (Awarding)**, **NAICS**, **PSC**, **Set Aside**, and **Assistance Type**. &#x20;
 
 Examples of typical analyses that can be used with each type of analysis include:
 
@@ -21,19 +21,21 @@ Examples of typical analyses that can be used with each type of analysis include
 * **Vehicle Rankings**: Understand key contract vehicles
 * **Awardee Rankings**: Understand major incumbent Awardees
 
-The below shows an example of an analysis to find opportunities for F\&O contract services expansion within HHS. &#x20;
+The below shows an example of an analysis to find the most attractive NAICS codes for full & open contracts within HHS. &#x20;
 
-First looking at the largest NAICS codes:
+First looking at the [largest NAICS codes](broken-reference):
 
 ![](../.gitbook/assets/naics\_analysis.png)
 
-Then looking at a trend in a NAICS of interest:
+Then adding the 541330 NAICS code to see the [trend in awards over time](https://www.highergov.com/analysis/award/?report=funding\_total\&date\_trend=-10\&searchID=h945AysiswxTd5\_A2lfpu):
 
 ![](<../.gitbook/assets/naics trend.png>)
 
-Finally, looking at key Vehicles and Awardees serving this market:
+The Vehicles Rankings tab can be used to discover what multi-award contract vehicles are most key for the filtered market:
 
 ![](<../.gitbook/assets/vehicle rank.png>)
+
+The Awardee Rankings tab can be used to discover who the market leaders in the filtered market are, either to identify potential partners or understand the strengths / weaknesses of the current leaders:
 
 ![](<../.gitbook/assets/awardee rank2.png>)
 

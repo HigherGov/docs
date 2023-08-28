@@ -16,7 +16,7 @@ On all Category Search pages on HigherGov once you have run a search, you can sa
 
 When saving a Search, you can opt-in to receive an email notification when there are new results.  To receive notifications, select a frequency under Email Notification Updates (Daily, Weekly, or Monthly) when saving a search. &#x20;
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Example email notification</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Example email notification</p></figcaption></figure>
 
 Saved Search Notifications are available for all search categories that receive frequent updates.  Stop future notifications by pressing the Unsubscribe link in the notification email or on the Saved Search page (see below).&#x20;
 

@@ -29,7 +29,7 @@ For Grants, the recommended filters to add include (but are not limited to):
 
 The resulting search will provide a ranking of government buyers sorted by their Relevance in the filters you have selected.  You can click on the Awards or Opps buttons next to each row to see the Awards or Opportunities that the contracting officer is associated with. &#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 If you are not finding many results, you can try removing or broadening filters.
 

@@ -63,7 +63,7 @@ To find grants that are likely to be re-awarded, go to _Awards --> Grants_ in th
 
 ## Related Pages
 
-{% content-ref url="../market-intelligence/find-contracting-and-grant-entry-points.md" %}
-[find-contracting-and-grant-entry-points.md](../market-intelligence/find-contracting-and-grant-entry-points.md)
+{% content-ref url="../market-intelligence/market-analysis-tool.md" %}
+[market-analysis-tool.md](../market-intelligence/market-analysis-tool.md)
 {% endcontent-ref %}
 

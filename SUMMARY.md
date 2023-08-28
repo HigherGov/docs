@@ -32,7 +32,7 @@
 * [Research Federal Contractors and Grant Recipients](market-intelligence/research-federal-contractors-and-grant-recipients.md)
 * [Find and Analyze Government Contracts](market-intelligence/find-and-analyze-government-contracts.md)
 * [Find and Analyze Government Grants](market-intelligence/find-and-analyze-government-grants.md)
-* [Find Contracting and Grant Entry Points](market-intelligence/find-contracting-and-grant-entry-points.md)
+* [Market Analysis Tool](market-intelligence/market-analysis-tool.md)
 * [Analyze Contract Vehicles](market-intelligence/analyze-contract-vehicles.md)
 
 ## Capital Markets
@@ -48,7 +48,9 @@
 
 ## MARKETING
 
-* [Promote Your Business](marketing/promote-your-business.md)
+* [Customize Awardee Profile](marketing/customize-awardee-profile.md)
+* [Marketing Audit Tool](marketing/marketing-audit-tool.md)
+* [Marketing Booster](marketing/marketing-booster.md)
 
 ## More
 
