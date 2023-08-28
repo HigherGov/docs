@@ -15,8 +15,6 @@ To search for state, local, and education contract opportunities, go to _Busines
 Common search filters include:
 
 * **Active Opportunities**: Limit the search to contract opportunities with a deadline in the future&#x20;
-* **Agency**: Search for contract opportunities within a specific agency
-* **Agency Type**: Limit the search to opportunities released by a certain category of agency such as Fire or Police Departments or Public Utilities
 * **Keyword:** Search the opportunity titles and descriptions for specific keywords
 * **NAICS**: Limit results to contracts that are classified under a particular North American Industry Classification System code
 * **PSC**: Limit results to contracts that are classified under a particular Product Services Code
