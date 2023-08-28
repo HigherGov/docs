@@ -12,7 +12,7 @@ On this page, you can filter for contract opportunities by a number of criteria 
 
 Additionally, there are Quick search options to rapidly narrow down contract opportunities to **Active Opportunities**, **Future Vehicles**, opportunities that have or do not have **Set Asides,** and by many other criteria.  &#x20;
 
-As you find potentially interesting contract opportunities, you can click the opportunity title to open up the Contract Opportunity detail page to see the opportunity description, history, related solicitations, documents, similar opportunities, potential bidders, and other detail.  You can also follow the opportunity by clicking the heart button to easily access it later.&#x20;
+As you find potentially interesting contract opportunities, you can click the opportunity title to open up the Contract Opportunity detail page to see the opportunity description, history, related solicitations, documents, similar opportunities, potential bidders, and other detail.  You can also follow the opportunity by clicking the heart button to easily access it later by selecting the My Favorites filter.&#x20;
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ On the Contract Opportunity Search page (as well as most other Search pages on H
 
 ### Daily Recommendations
 
-You can also opt-in to receive a daily email of recommended contract opportunities by logging in and selecting the gear icon in the upper right, going to Profile, and switching on **Daily Federal Opportunities Email**.  For annual subscribers, this email will be customized to the most relevant opportunities based on the contractor they work for.
+You can also opt-in to receive a daily email of recommended contract opportunities by logging in and selecting the gear icon in the upper right, going to Profile, and switching on **Daily Federal Opportunities Email** (or clicking [here](https://www.highergov.com/profile/)).  For annual subscribers, this email will be customized to the most relevant opportunities based on the contractor they work for.
 
 Curated contract opportunities from the past 48 hours are also accessible on the Dashboard page when you log in to your account.
 
