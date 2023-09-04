@@ -19,9 +19,3 @@ Customizing your awardee profile allows you to provide a capability statement an
 To customize your Awardee profile, open your [HigherGov Account](https://www.highergov.com/account/), complete the information under the Customize Awardee Profile section, and select Highlight Profile.  Once complete, select Update.
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## Marketing Booster
-
-{% hint style="info" %}
-
-{% endhint %}
