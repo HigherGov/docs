@@ -2,7 +2,7 @@
 description: How to Research Federal Prime Grants and Subgrant Awards
 ---
 
-# Find and Analyze Government Grants
+# Find and Analyze Federal Grants
 
 {% hint style="info" %}
 HigherGov tracks more than 8 million government grants and subgrants awarded since 2000.
@@ -51,6 +51,6 @@ Sometimes the descriptions provided by the government do not provide much detail
 
 ## Additional Resources
 
-{% content-ref url="find-and-analyze-government-contracts.md" %}
-[find-and-analyze-government-contracts.md](find-and-analyze-government-contracts.md)
+{% content-ref url="find-and-analyze-federal-contracts.md" %}
+[find-and-analyze-federal-contracts.md](find-and-analyze-federal-contracts.md)
 {% endcontent-ref %}

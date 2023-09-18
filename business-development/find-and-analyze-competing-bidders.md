@@ -54,7 +54,7 @@ Many contractors will also have pricing available in the [Labor Pricing](https:/
 
 ## Related Pages
 
-{% content-ref url="../find-opportunities/find-federal-prime-contract-opportunities.md" %}
-[find-federal-prime-contract-opportunities.md](../find-opportunities/find-federal-prime-contract-opportunities.md)
+{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
+[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
 {% endcontent-ref %}
 

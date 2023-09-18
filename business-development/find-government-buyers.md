@@ -1,8 +1,8 @@
 ---
-description: Research and reach out to key contracting officers for your market
+description: Research and reach out to key procurement officers for your market
 ---
 
-# Find Federal Government Buyers
+# Find Government Buyers
 
 ## Government Buyer Tool
 
@@ -13,23 +13,29 @@ Common use cases for the Government Buyer tool include:
 1. Monitoring the relevant solicitations of contracting officers&#x20;
 2. Sending capability statements or other marketing materials to contracting officers
 
-To access the Government Buyer tool, go to _Market Intelligence --> Government --> Buyer_ in the sidebar or click [here](https://www.highergov.com/government-buyer/) and select either Contracts or Grants.  To search for government buyers, add Filters relevant to the market you are targeting. &#x20;
+To access the Government Buyer tool, go to Business Development _--> Government Buyer_ in the sidebar or click [here](https://www.highergov.com/government-buyer/) and select either Contracts or Grants (or click [here](https://www.highergov.com/sl/government-buyer/) for state and local opportunities).  To search for government buyers, add Filters relevant to the market you are targeting. &#x20;
 
-For Contracts, the recommended filters to add include (but are not limited to):
+For Federal Contracts, the recommended filters to add include (but are not limited to):
 
 * **Agency (Awarding)**&#x20;
 * **NAICS** or **PSC**
 * **Set Aside** (select **No Set Aside Used** for Full & Open competition)
 * **Place of Performance**
 
-For Grants, the recommended filters to add include (but are not limited to):
+For Federal Grants, the recommended filters to add include (but are not limited to):
 
 * **Agency (Awarding)**
 * **Assistance Type**
 
+For State and Local Contracts, the recommended filters to add include (but are not limited to):
+
+* **State**
+* **NAICS** or **PSC**
+* **Agency Type**
+
 The resulting search will provide a ranking of government buyers sorted by their Relevance in the filters you have selected.  You can click on the Awards or Opps buttons next to each row to see the Awards or Opportunities that the contracting officer is associated with. &#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are not finding many results, you can try removing or broadening filters.
 
@@ -41,7 +47,7 @@ The HigherGov platform provides several other ways to find relevant procurement 
 
 HigherGov also provides a search to find specific procurement officers or to find all of the recently active relevant contracting officers in a given agency using [People](https://www.highergov.com/people/) search.  While less powerful than the Government Buyer tool, this can be a way to quickly identify specific procurement officers or all procurement officers in a particular agency.
 
-### Sources Sought and Forecasts&#x20;
+### Federal Sources Sought and Forecasts&#x20;
 
 By the time a solicitation has been released, it is often too late to provide relevant information to a contracting officer that might help them make informed decisions about how they will procure the contract (set-aside etc.).  The Presolicitation and the Forecasting processes both provide opportunities to identify contracts before solicitation.
 

@@ -1,25 +1,32 @@
 # Table of contents
 
 * [The HigherGov Docs](README.md)
-* [Search Basics](search-basics.md)
-* [Saved Searches](saved-searches.md)
+
+## HigherGov Basics
+
+* [Search Basics](highergov-basics/search-basics.md)
+* [Saved Searches](highergov-basics/saved-searches.md)
+* [Daily Opportunity Emails](highergov-basics/daily-opportunity-emails.md)
+* [Favoriting, Tracking, and Passing](highergov-basics/favoriting-tracking-and-passing.md)
+* [Adding Users to Your Account](highergov-basics/adding-users-to-your-account.md)
 
 ## Find Opportunities
 
-* [Find Federal Prime Contract Opportunities](find-opportunities/find-federal-prime-contract-opportunities.md)
-* [Find Federal Subcontract Opportunities](find-opportunities/find-federal-subcontract-opportunities.md)
-* [Find Federal Small Business  Contract Opportunities](find-opportunities/find-federal-small-business-contract-opportunities.md)
-* [Find Federal Opportunities Before RFP Release](find-opportunities/find-federal-opportunities-before-rfp-release.md)
-* [Find Federal Grant and Subgrant Opportunities](find-opportunities/find-federal-grant-and-subgrant-opportunities.md)
-* [Find DLA Opportunities](find-opportunities/find-dla-opportunities.md)
-* [Find State and Local Contract Opportunities](find-opportunities/find-state-and-local-contract-opportunities.md)
+* [Federal Prime Contracts](find-opportunities/federal-prime-contracts.md)
+* [Federal Subcontracts](find-opportunities/federal-subcontracts.md)
+* [Federal Small Business Contracts](find-opportunities/federal-small-business-contracts.md)
+* [Find Opportunities Before Competitors](find-opportunities/find-opportunities-before-competitors.md)
+* [Federal Grants and Subgrants](find-opportunities/federal-grants-and-subgrants.md)
+* [DLA Opportunities](find-opportunities/dla-opportunities.md)
+* [State and Local Contracts](find-opportunities/state-and-local-contracts.md)
 
 ## Business Development
 
 * [Find And Analyze Competing Bidders](business-development/find-and-analyze-competing-bidders.md)
 * [Find Teaming Partners](business-development/find-teaming-partners.md)
 * [Benchmarking Labor Rates](business-development/benchmarking-labor-rates.md)
-* [Find Federal Government Buyers](business-development/find-federal-government-buyers.md)
+* [Find Federal Incumbents](business-development/find-federal-incumbents.md)
+* [Find Government Buyers](business-development/find-government-buyers.md)
 
 ## Pursuit Management
 
@@ -30,8 +37,8 @@
 ## Market Intelligence
 
 * [Research Federal Contractors and Grant Recipients](market-intelligence/research-federal-contractors-and-grant-recipients.md)
-* [Find and Analyze Government Contracts](market-intelligence/find-and-analyze-government-contracts.md)
-* [Find and Analyze Government Grants](market-intelligence/find-and-analyze-government-grants.md)
+* [Find and Analyze Federal Contracts](market-intelligence/find-and-analyze-federal-contracts.md)
+* [Find and Analyze Federal Grants](market-intelligence/find-and-analyze-federal-grants.md)
 * [Market Analysis Tool](market-intelligence/market-analysis-tool.md)
 * [Analyze Contract Vehicles](market-intelligence/analyze-contract-vehicles.md)
 

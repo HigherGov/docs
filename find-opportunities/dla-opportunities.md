@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Find DLA Opportunities
+# DLA Opportunities
 
 DIBBS is the Defense Logistics Agency's system for acquiring "standardized material items of supply" (standardized products) for the Department of Defense.  On average more than 10,000 solicitations are posted to DIBBS weekly, the vast majority of which are not posted elsewhere.  Most solicitations posted on DIBBS will have associated [NATO Stock Numbers](https://www.highergov.com/nsn/) (NSN). &#x20;
 
@@ -31,16 +31,16 @@ Current and historical opportunities posted to DIBBS can be found on the [Contra
 
 To find relevant opportunities, select the Add Filters button.  The most common filters used for DIBBS Opportunities include **PSC** (also known FSC), **NSN**, and **Set Aside**.  If you want to limit opportunities to those that are currently active, you can select the **Active Opportunity** filter. &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can learn more about searching in HigherGov here:
 
-{% content-ref url="../search-basics.md" %}
-[search-basics.md](../search-basics.md)
+{% content-ref url="../highergov-basics/search-basics.md" %}
+[search-basics.md](../highergov-basics/search-basics.md)
 {% endcontent-ref %}
 
-{% content-ref url="../saved-searches.md" %}
-[saved-searches.md](../saved-searches.md)
+{% content-ref url="../highergov-basics/saved-searches.md" %}
+[saved-searches.md](../highergov-basics/saved-searches.md)
 {% endcontent-ref %}
 
 ## Analyzing DIBBS Opportunities

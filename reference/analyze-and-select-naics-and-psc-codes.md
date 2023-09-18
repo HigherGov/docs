@@ -34,13 +34,13 @@ HigherGov provides searches for both [NAICS](https://www.highergov.com/naics/) a
 
 If you have already identified either NAICS or PSC codes and are looking to identify the other code type, you can use the Crosswalk section on the identified code page to see the most common code paired with the other in federal contracts.&#x20;
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>NAICS Crosswalk for PSC R425 Support Professional: Engineering / Technical</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>NAICS Crosswalk for PSC R425 Support Professional: Engineering / Technical</p></figcaption></figure>
 
 ### Analyze Competitors
 
 If you have close competitors that are government contractors, another method of identifying NAICS and PSC codes is to look at what codes they have registered for (located in the registration section on the [Awardee](https://www.highergov.com/awardee/) page) or what codes they have historically won contracts through, which can be easily analyzed on their Awardee page by going to the Federal Award Analysis section, selecting the Shares tab, and choosing the NAICS or PSC Category.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Other Tools
 

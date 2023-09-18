@@ -97,12 +97,12 @@ Once you have identified new potential agencies and products and services to pur
 
 Learn more about how to find relevant opportunities at the below:
 
-{% content-ref url="../find-opportunities/find-federal-prime-contract-opportunities.md" %}
-[find-federal-prime-contract-opportunities.md](../find-opportunities/find-federal-prime-contract-opportunities.md)
+{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
+[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/find-federal-grant-and-subgrant-opportunities.md" %}
-[find-federal-grant-and-subgrant-opportunities.md](../find-opportunities/find-federal-grant-and-subgrant-opportunities.md)
+{% content-ref url="../find-opportunities/federal-grants-and-subgrants.md" %}
+[federal-grants-and-subgrants.md](../find-opportunities/federal-grants-and-subgrants.md)
 {% endcontent-ref %}
 
 ## Other Considerations

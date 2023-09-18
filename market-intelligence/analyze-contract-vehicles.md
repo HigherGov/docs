@@ -64,6 +64,6 @@ You can also explore and further filter which awardees hold a position on a cont
 [research-federal-contractors-and-grant-recipients.md](research-federal-contractors-and-grant-recipients.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/find-federal-prime-contract-opportunities.md" %}
-[find-federal-prime-contract-opportunities.md](../find-opportunities/find-federal-prime-contract-opportunities.md)
+{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
+[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
 {% endcontent-ref %}

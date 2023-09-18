@@ -2,7 +2,7 @@
 description: How to Easily Find and Pursue Federal Prime Grant and Subgrant Opportunities
 ---
 
-# Find Federal Grant and Subgrant Opportunities
+# Federal Grants and Subgrants
 
 ## Grant Opportunity Search
 
@@ -48,6 +48,6 @@ The quickest way to search for potential subgrant opportunities is to go to the 
 
 ## Related Pages
 
-{% content-ref url="../market-intelligence/find-and-analyze-government-grants.md" %}
-[find-and-analyze-government-grants.md](../market-intelligence/find-and-analyze-government-grants.md)
+{% content-ref url="../market-intelligence/find-and-analyze-federal-grants.md" %}
+[find-and-analyze-federal-grants.md](../market-intelligence/find-and-analyze-federal-grants.md)
 {% endcontent-ref %}

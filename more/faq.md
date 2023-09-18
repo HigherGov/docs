@@ -6,13 +6,13 @@ description: Frequently Asked Questions
 
 ## What do the Export Limits Mean?
 
-Export limits apply only on a per-search basis. HigherGov has no monthly or team limits on the total number of records you can download.  So if your plan has a download limit of 10,000 records, you can download up to 10,000 records per search as many times as you would like.
+Export limits apply only on a per-search basis. HigherGov has no monthly or team limits on the total number of records you can export.  So if your plan has an export limit of 10,000 records, you can export up to 10,000 records per search as many times as you would like.
 
 Please see our [pricing plans](https://www.highergov.com/pricing/) for our current download limits. &#x20;
 
 ## What are Your Data Sources?
 
-HigherGov gathers data from more than 60 federal data sources including SAM.GOV, DIBBS, PIIE, SBIR.GOV, FPDS, DSRS, FSRS, GSA Advantage, and many more.  Our analysts also build our own proprietary data sets (such as our Vehicle and M\&A data) to help connect government data and provide other key industry insights.  If you have a question about where some of our data comes from, do not hesitate to ask.
+HigherGov gathers data from more than 60 federal data sources including SAM.GOV, DIBBS, PIIE, SBIR.GOV, FPDS, DSRS, FSRS, SBIR.GOV, GSA Advantage, and many more.  Our analysts also build our own proprietary data sets (such as our Vehicle and M\&A data) to help connect government data and provide other key industry insights.  If you have a question about where some of our data comes from, do not hesitate to ask.
 
 In the State and Local market, we actively monitor more than 10,000 of the largest agencies in all 50 states and Washington D.C. &#x20;
 

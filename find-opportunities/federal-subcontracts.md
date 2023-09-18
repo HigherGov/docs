@@ -4,7 +4,7 @@ description: >-
   Opportunities
 ---
 
-# Find Federal Subcontract Opportunities
+# Federal Subcontracts
 
 ## Searching For Potential Subcontract Opportunities
 
@@ -12,7 +12,7 @@ description: >-
 
 The quickest way to search for potential subcontract opportunities is to go to the Contracts search page under _Market Intelligence --> Contracts_ or click [here](https://www.highergov.com/contract/) and select the **Subcontract Opps** Quick filter. This will filter for contracts that have recently been awarded with a required subcontracting plan. You can add your own filters such as **Agency**, **NAICS**, or **Set Aside** to further focus on the most relevant contracts for your business.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Subcontracting Plans
 
@@ -50,8 +50,8 @@ Please note that subcontract data is reported by Prime contractors and the consi
 
 ## Additional Resources
 
-{% content-ref url="find-federal-prime-contract-opportunities.md" %}
-[find-federal-prime-contract-opportunities.md](find-federal-prime-contract-opportunities.md)
+{% content-ref url="federal-prime-contracts.md" %}
+[federal-prime-contracts.md](federal-prime-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="../business-development/find-teaming-partners.md" %}

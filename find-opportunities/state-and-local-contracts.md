@@ -4,7 +4,7 @@ description: >-
   opportunities
 ---
 
-# Find State and Local Contract Opportunities
+# State and Local Contracts
 
 ## Contract Opportunity Search
 
@@ -20,7 +20,7 @@ Common search filters include:
 * **PSC**: Limit results to contracts that are classified under a particular Product Services Code
 * **State**: Limit results to where the issuing agency is within a specific state or region
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Saving Searches
 
@@ -42,6 +42,6 @@ By selecting a contract opportunity, you can see the opportunity description as 
 
 
 
-{% content-ref url="find-federal-prime-contract-opportunities.md" %}
-[find-federal-prime-contract-opportunities.md](find-federal-prime-contract-opportunities.md)
+{% content-ref url="federal-prime-contracts.md" %}
+[federal-prime-contracts.md](federal-prime-contracts.md)
 {% endcontent-ref %}

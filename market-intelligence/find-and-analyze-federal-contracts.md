@@ -4,10 +4,10 @@ description: >-
   Subcontracts
 ---
 
-# Find and Analyze Government Contracts
+# Find and Analyze Federal Contracts
 
 {% hint style="info" %}
-HigherGov tracks more than 60 million government IDVs, prime contracts, subcontracts, and OTAs awarded since 2000.
+HigherGov tracks more than 65 million government IDVs, prime contracts, subcontracts, and OTAs awarded since 2000.
 {% endhint %}
 
 ## Finding Contracts
@@ -24,12 +24,12 @@ You can also use the contract search to find potential recompete and subcontract
 
 ![](<../.gitbook/assets/Contract Search.png>)
 
-{% content-ref url="../find-opportunities/find-federal-prime-contract-opportunities.md" %}
-[find-federal-prime-contract-opportunities.md](../find-opportunities/find-federal-prime-contract-opportunities.md)
+{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
+[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/find-federal-subcontract-opportunities.md" %}
-[find-federal-subcontract-opportunities.md](../find-opportunities/find-federal-subcontract-opportunities.md)
+{% content-ref url="../find-opportunities/federal-subcontracts.md" %}
+[federal-subcontracts.md](../find-opportunities/federal-subcontracts.md)
 {% endcontent-ref %}
 
 If you want to learn more about a contract you click into the detail page to see more detail.
@@ -62,8 +62,8 @@ Sometimes the descriptions provided by the government do not provide much detail
 
 ## Additional Resources
 
-{% content-ref url="find-and-analyze-government-grants.md" %}
-[find-and-analyze-government-grants.md](find-and-analyze-government-grants.md)
+{% content-ref url="find-and-analyze-federal-grants.md" %}
+[find-and-analyze-federal-grants.md](find-and-analyze-federal-grants.md)
 {% endcontent-ref %}
 
 {% content-ref url="analyze-contract-vehicles.md" %}

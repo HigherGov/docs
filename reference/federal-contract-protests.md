@@ -10,7 +10,7 @@ Protests can potentially substantially delay the award and start of contracts an
 
 HigherGov maintains a list of [protests](https://www.highergov.com/protest/) and also indicates on a contract opportunity page if a protest has been filed.  If when the GAO Protest is decided there is an associated GAO Decision (most common with Denied or Sustained protests), that will also be included on the related protest page. &#x20;
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Learn more about when protests are likely to fail or succeed in our year-end bid [protest analysis](https://www.highergov.com/news/gao-protest-analysis-2022/). &#x20;

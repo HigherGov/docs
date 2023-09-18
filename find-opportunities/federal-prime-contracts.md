@@ -2,7 +2,7 @@
 description: How to Identify and Compete For Relevant Federal Prime Contract Opportunities
 ---
 
-# Find Federal Prime Contract Opportunities
+# Federal Prime Contracts
 
 ## Federal Contract Opportunity Search
 
@@ -14,16 +14,16 @@ Additionally, there are Quick search options to rapidly narrow down contract opp
 
 As you find potentially interesting contract opportunities, you can click the opportunity title to open up the Contract Opportunity detail page to see the opportunity description, history, related solicitations, documents, similar opportunities, potential bidders, and other detail.  You can also follow the opportunity by clicking the heart button to easily access it later by selecting the My Favorites filter.&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 You may also want to:
 
-{% content-ref url="find-federal-opportunities-before-rfp-release.md" %}
-[find-federal-opportunities-before-rfp-release.md](find-federal-opportunities-before-rfp-release.md)
+{% content-ref url="find-opportunities-before-competitors.md" %}
+[find-opportunities-before-competitors.md](find-opportunities-before-competitors.md)
 {% endcontent-ref %}
 
-{% content-ref url="find-dla-opportunities.md" %}
-[find-dla-opportunities.md](find-dla-opportunities.md)
+{% content-ref url="dla-opportunities.md" %}
+[dla-opportunities.md](dla-opportunities.md)
 {% endcontent-ref %}
 
 ### Saving Searches
@@ -66,14 +66,14 @@ You can also search for potential recompetes for competitors or other awardees t
 
 ## Related Pages
 
-{% content-ref url="find-federal-subcontract-opportunities.md" %}
-[find-federal-subcontract-opportunities.md](find-federal-subcontract-opportunities.md)
+{% content-ref url="federal-subcontracts.md" %}
+[federal-subcontracts.md](federal-subcontracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="find-dla-opportunities.md" %}
-[find-dla-opportunities.md](find-dla-opportunities.md)
+{% content-ref url="dla-opportunities.md" %}
+[dla-opportunities.md](dla-opportunities.md)
 {% endcontent-ref %}
 
-{% content-ref url="../market-intelligence/find-and-analyze-government-contracts.md" %}
-[find-and-analyze-government-contracts.md](../market-intelligence/find-and-analyze-government-contracts.md)
+{% content-ref url="../market-intelligence/find-and-analyze-federal-contracts.md" %}
+[find-and-analyze-federal-contracts.md](../market-intelligence/find-and-analyze-federal-contracts.md)
 {% endcontent-ref %}

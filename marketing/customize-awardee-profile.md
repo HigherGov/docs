@@ -6,7 +6,7 @@ description: >-
 
 # Customize Awardee Profile
 
-More than 150K contractors and grant recipients, contracting officers, consultants, journalists, and investors use HigherGov every month to find partners, potential vendors, and to perform research. HigherGov offers several tools to help our subscribers promote their organizations on the platform.
+More than 200K contractors and grant recipients, contracting officers, consultants, journalists, and investors use HigherGov every month to find partners, potential vendors, and to perform research. HigherGov offers several tools to help our subscribers promote their organizations on the platform.
 
 ## Customize Awardee Profile
 
@@ -18,4 +18,4 @@ Customizing your awardee profile allows you to provide a capability statement an
 
 To customize your Awardee profile, open your [HigherGov Account](https://www.highergov.com/account/), complete the information under the Customize Awardee Profile section, and select Highlight Profile.  Once complete, select Update.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
