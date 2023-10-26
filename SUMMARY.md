@@ -59,6 +59,11 @@
 * [Marketing Audit Tool](marketing/marketing-audit-tool.md)
 * [Marketing Booster](marketing/marketing-booster.md)
 
+## Inbound Integrations
+
+* [eBuy (MAS Schedules)](inbound-integrations/ebuy-mas-schedules.md)
+* [Symphony (OASIS/OASIS+)](inbound-integrations/symphony-oasis-oasis+.md)
+
 ## More
 
 * [API](more/api.md)
