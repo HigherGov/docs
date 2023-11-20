@@ -61,10 +61,7 @@
 
 ## Import and Export
 
-* [eBuy (MAS Schedules)](import-and-export/ebuy-mas-schedules.md)
-* [Symphony (OASIS/OASIS+)](import-and-export/symphony-oasis-oasis+.md)
 * [API](import-and-export/api.md)
-* [Email Opportunities](import-and-export/email-opportunities.md)
 * [Task Order Integration](import-and-export/task-order-integration.md)
 
 ## More
