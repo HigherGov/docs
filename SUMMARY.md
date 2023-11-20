@@ -59,13 +59,15 @@
 * [Marketing Audit Tool](marketing/marketing-audit-tool.md)
 * [Marketing Booster](marketing/marketing-booster.md)
 
-## Inbound Integrations
+## Import and Export
 
-* [eBuy (MAS Schedules)](inbound-integrations/ebuy-mas-schedules.md)
-* [Symphony (OASIS/OASIS+)](inbound-integrations/symphony-oasis-oasis+.md)
+* [eBuy (MAS Schedules)](import-and-export/ebuy-mas-schedules.md)
+* [Symphony (OASIS/OASIS+)](import-and-export/symphony-oasis-oasis+.md)
+* [API](import-and-export/api.md)
+* [Email Opportunities](import-and-export/email-opportunities.md)
+* [Task Order Integration](import-and-export/task-order-integration.md)
 
 ## More
 
-* [API](more/api.md)
 * [FOIA Service](more/foia-service.md)
 * [FAQ](more/faq.md)
