@@ -50,7 +50,7 @@ There are two types of filters available on most pages, Quick and Search.  The Q
 Several category screens including Contract Opportunities, Grant Opportunities, Contract Awards, and Grant Awards have an **Active** Quick filter.  In many cases,  you will want to select this **Active** filter to limit results to currently actionable opportunities or ongoing contracts rather than including historical data.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/filters.png" alt=""><figcaption></figcaption></figure>
 
 #### Keyword Search Tips
 
