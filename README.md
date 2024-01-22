@@ -10,7 +10,7 @@ If you have questions or need further assistance, you can reach us for support:
 
 **Current Subscribers:**
 
-* Chat us inside the platform Monday-Friday between 9am - 7pm ET by clicking the chat bubble<img src=".gitbook/assets/chat.png" alt="" data-size="line">in the upper right of the page&#x20;
+* Chat us inside the platform Monday-Friday between 9am - 5pm ET by clicking the chat bubble<img src=".gitbook/assets/chat.png" alt="" data-size="line">in the upper right of the page&#x20;
 * Schedule [Training](https://www.highergov.com/training)
 * Email us at [contact@highergov.com](mailto:contact@highergov.com)
 
