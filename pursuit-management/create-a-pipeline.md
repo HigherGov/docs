@@ -10,9 +10,9 @@ HigherGov offers a fully integrated CRM designed for government contracting and 
 
 ## Creating a Pipeline
 
-The first step in managing pursuits on HigherGov is to create a Pipeline.  You can create a pipeline by selecting _Business Development --> Pipelines --> \[+]_  on the sidebar or clicking [here](https://www.highergov.com/pipeline/add/).  On this page, you can enter a Title, Description, set a Pipeline Owner, enter the Types of Contracts you will pursue, and set preset or custom Pipeline Stages.
+The first step in managing pursuits on HigherGov is to create a Pipeline.  You can create a pipeline by selecting _Business Development --> Pipelines --> \[+]_  on the sidebar or clicking [here](https://www.highergov.com/pipeline/add/).  On this page, you can enter a Title, set a Pipeline Owner, and set preset or custom Pipeline Stages.
 
-![](<../.gitbook/assets/Screenshot 2022-06-15 015513.png>)
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ### Setting Pipeline Stages
 
