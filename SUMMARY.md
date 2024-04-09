@@ -63,6 +63,7 @@
 
 * [API](more/api.md)
 * [Task Order Integration](import-and-export/task-order-integration.md)
+* [Zapier Integration](import-and-export/zapier-integration.md)
 
 ## More
 
