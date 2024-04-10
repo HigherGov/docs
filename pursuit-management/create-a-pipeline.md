@@ -5,7 +5,7 @@ description: Create a pipeline to track your pursuits in HigherGov
 # Create a Pipeline
 
 {% hint style="info" %}
-HigherGov offers a fully integrated CRM designed for government contracting and grants.  The CRM integrates the best practices of leading capture professionals and can be set up in minutes.  If you are not currently a subscriber you can try out the CRM by [signing up](https://www.highergov.com/signup/) for a trial account or scheduling a [demo](https://www.highergov.com/demo/).&#x20;
+HigherGov offers a fully integrated CRM designed for government contracting and grants.  The CRM integrates the best practices of leading capture professionals and can be set up in minutes.  If you are not currently a subscriber, you can try out the CRM by [signing up](https://www.highergov.com/signup/) for a trial account or scheduling a [demo](https://www.highergov.com/demo/).&#x20;
 {% endhint %}
 
 ## Creating a Pipeline
