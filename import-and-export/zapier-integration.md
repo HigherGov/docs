@@ -20,7 +20,7 @@ Zapier integration requires a Standard or Leader plan subscription.  If you woul
 
 **Zapier Account**: If you do not already have a Zapier account, you can create one [here](https://zapier.com/sign-up).  Many users may be able to connect HigherGov to their CRM using a free Zapier account.  If you expect you send more than 100 opportunities per month to your CRM (or are using Zapier for other tasks), you may require a [paid plan](https://zapier.com/pricing).  Pricing for a Zapier account is separate from HigherGov.&#x20;
 
-**CRMs Supported by Zapier**: Applications supported by Zapier is available [here](https://zapier.com/apps). HigherGov has tested Zapier with [HubSpot](https://zapier.com/apps/hubspot/integrations) but most [CRMs](https://zapier.com/apps/categories/sales-crm) that support creating "pursuits", "deals", or "opportunities" should be able to ingest HigherGov opportunities.  Please [contact us](mailto:contact@highergov.com) if there is a specific CRM you are interested in connecting with Zapier.
+**CRMs Supported by Zapier**: Applications supported by Zapier are available [here](https://zapier.com/apps). HigherGov has tested Zapier with [HubSpot](https://zapier.com/apps/hubspot/integrations) but most [CRMs](https://zapier.com/apps/categories/sales-crm) that support creating "pursuits", "deals", or "opportunities" should be able to ingest HigherGov opportunities.  Please [contact us](mailto:contact@highergov.com) if there is a specific CRM you are interested in connecting with Zapier.
 
 ### **Creating a Zapier Pipeline in HigherGov**
 
@@ -40,11 +40,11 @@ Scroll down to Zapier Integration and click the Create Pipeline button.  Give yo
 
 ### **Configuring Zapier**
 
-To connect HigherGov to your CRM with Zapier you will need to create a Zap.  Instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h\_01H91E3WYAFDT8KEE45ST76WKW).  As part of the process of creating your Zap and authenticating with HigherGov, you will need to provide the Secrete Key you created above.
+To connect HigherGov to your CRM with Zapier you will need to create a Zap.  Instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h\_01H91E3WYAFDT8KEE45ST76WKW).  As part of creating your Zap and authenticating with HigherGov, you will provide the Secret Key you created above.
 
 ### **Adding Pursuits to Your Zapier Pipeline**
 
-Once you have set up your Zap you can start to add pursuits to your Pipeline.
+Once you have set up your Zap you can add pursuits to your Pipeline.
 
 #### Find Opportunities
 
@@ -72,6 +72,6 @@ You can automatically create new pursuits from Federal and State and Local Contr
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-You will receive a message shortly after indicating that the Pursuit has been successfully sent to Zapier using the Pipeline you selected or you will receive an error. &#x20;
+You will receive a message shortly after adding, indicating that the Pursuit has been successfully sent to Zapier using the Pipeline you selected or you will receive an error. &#x20;
 
 <figure><img src="../.gitbook/assets/image (57).png" alt="" width="334"><figcaption></figcaption></figure>
