@@ -4,23 +4,45 @@ description: Getting started with HigherGov API
 
 # API
 
-{% hint style="info" %}
-**The HigherGov API is only available to subscribers.  We can also offer customized APIs per your needs.  Please** [**contact** ](mailto:contact@highergov.com)**us if you are interested in learning more.** &#x20;
-{% endhint %}
+### Access, Limits, and Pricing
 
-### Data Limits and Pricing
-
-All HigherGov plans include access to the API and 10,000 records per month through the API.  If you require more data, please [contact us](mailto:contact@highergov.com) with your use case for pricing.  &#x20;
+All HigherGov subscriptions include access to the API and 10,000 records per month through the API.  If you require more data, please [contact us](mailto:contact@highergov.com) with your use case for pricing.  &#x20;
 
 ### Endpoints
 
-A list of available endpoints and fields is available in the OAS [documentation](https://www.highergov.com/api-external/docs/).  The OAS Documentation can also be used to generate sample API calls.  &#x20;
+A list of available endpoints and fields is available in the OAS [documentation](https://www.highergov.com/api-external/docs/).  The OAS Documentation can also generate sample API calls by pressing the Try It Out button under each endpoint, selecting the desired Parameters, and pressing Execute.
+
+{% hint style="info" %}
+**We also offer APIs customized to your needs.  Please** [**contact** ](mailto:contact@highergov.com)**us if you are interested in learning more.** &#x20;
+{% endhint %}
 
 ### Creating Keys
 
 API keys can be managed when signed in by selecting the gear icon in the upper right and selecting API or by clicking [here](https://www.highergov.com/api-management/).  Only an account administrator will have access to create keys.  To create an API key, select the Generate Key button.  Note that the full key will only be available on this screen once so make sure to copy and securely save the key.
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+### Using the search\_id Parameter
+
+For the Opportunity, Federal Contract, and Federal Grant endpoints, HigherGov provides a search\_id parameter that allows a HigherGov search to be easily converted into an API call.  The search\_id parameter does not accept all search fields, please see the endpoint documentation for a list of supported fields.
+
+#### Example&#x20;
+
+If you have the below search in [Federal Contract Opportunities](https://www.highergov.com/contract-opportunity/?searchID=2F6PPA1a7NAQ4C1OUh7XB):
+
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
+You can take the searchID listed in the URL:
+
+https://www.highergov.com/contract-opportunity/?searchID=<mark style="background-color:red;">2F6PPA1a7NAQ4C1OUh7XB</mark>
+
+and use that in your API call as the search\_id parameter:
+
+https://www.highergov.com/api-external/opportunity/?api\_key=your-api-key-here\&search\_id=<mark style="background-color:red;">2F6PPA1a7NAQ4C1OUh7XB</mark>\&captured\_date=2024-05-01\&page\_size=10\&source\_type=sam
+
+#### Best Results
+
+For best results with the search\_id filter in the Opportunity endpoint, we recommend also using the source\_type and captured\_date filters to limit your call to the most relevant data source(s) and most recent dates. &#x20;
 
 ### Data Refresh Rate
 
@@ -134,6 +156,3 @@ foreach ($data['results'] as $result) {
 ```
 {% endtab %}
 {% endtabs %}
-
-
-
