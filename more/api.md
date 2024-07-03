@@ -1,5 +1,5 @@
 ---
-description: Getting started with HigherGov API
+description: Getting started with the powerful HigherGov API
 ---
 
 # API
