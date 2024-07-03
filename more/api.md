@@ -10,15 +10,15 @@ description: Getting started with HigherGov API
 
 ### Data Limits and Pricing
 
-All HigherGov plans include access to the API and access to 10,000 records per month through the API.  If you require more data, please [contact us](mailto:contact@highergov.com) with your use case for pricing.  &#x20;
+All HigherGov plans include access to the API and 10,000 records per month through the API.  If you require more data, please [contact us](mailto:contact@highergov.com) with your use case for pricing.  &#x20;
 
 ### Endpoints
 
-A list of available endpoints and fields is available in the [documentation](https://www.highergov.com/api-external/docs/). &#x20;
+A list of available endpoints and fields is available in the OAS [documentation](https://www.highergov.com/api-external/docs/).  The OAS Documentation can also be used to generate sample API calls.  &#x20;
 
 ### Creating Keys
 
-API keys can be managed when signed in by selecting the gear icon in the upper right and selecting API or by clicking [here](https://www.highergov.com/api-management/).  To create an API key select the Generate Key button.  Note that the full key will only be available on this screen one time so make sure to copy and securely save the key.
+API keys can be managed when signed in by selecting the gear icon in the upper right and selecting API or by clicking [here](https://www.highergov.com/api-management/).  Only an account administrator will have access to create keys.  To create an API key, select the Generate Key button.  Note that the full key will only be available on this screen once so make sure to copy and securely save the key.
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,12 +26,12 @@ API keys can be managed when signed in by selecting the gear icon in the upper r
 
 Data is generally updated shortly after the underlying data source. Some examples are shown below.
 
-| Endpoint                   | Data Update Frequency |
-| -------------------------- | --------------------- |
-| **Prime Contract Awards**  | Daily                 |
-| **Contract Opportunities** | 20 Minutes            |
-| **Prime Grant Awards**     | Daily                 |
-| **Grant Opportunities**    | 2 Hours               |
+| Endpoint             | Data Update Frequency |
+| -------------------- | --------------------- |
+| **Opportunity**      | 20 Minutes            |
+| **Federal Contract** | Daily                 |
+| **Federal Grant**    | Daily                 |
+| **Awardee**          | Daily                 |
 
 ### Code Examples
 
