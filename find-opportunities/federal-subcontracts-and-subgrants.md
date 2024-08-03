@@ -4,7 +4,7 @@ description: >-
   Opportunities
 ---
 
-# Federal Subcontracts
+# Federal Subcontracts and Subgrants
 
 ## Searching For Potential Subcontract Opportunities
 
@@ -48,10 +48,16 @@ To find subcontracts that the Awardee has made in the past, go to _Market Intell
 Please note that subcontract data is reported by Prime contractors and the consistency and quality of data will vary.  To enhance the quality and reliability of this data, HigherGov removes or adjusts a significant percentage of reported subcontracts that are likely duplicates or otherwise inaccurate. &#x20;
 {% endhint %}
 
+## Potential Subgrants
+
+The quickest way to search for potential subgrant opportunities is to go to the Grants search page under _Market Intelligence -> Awards -> Grants (_or click [here](https://www.highergov.com/grant/)) and select the **Subcontract Opportunities** Quick filter. This will filter for Grants that have characteristics that make them more likely to have subgrant opportunities.  You can add your own filters such as **Agency**, **Place of Performance**, **Grant Program** or other filters to further focus on the most relevant grants for your organization.
+
+![](<../.gitbook/assets/subgrant opps.png>)
+
 ## Additional Resources
 
-{% content-ref url="federal-prime-contracts.md" %}
-[federal-prime-contracts.md](federal-prime-contracts.md)
+{% content-ref url="federal-contracts.md" %}
+[federal-contracts.md](federal-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="../business-development/find-teaming-partners.md" %}

@@ -6,42 +6,57 @@ description: >-
 
 # State and Local Contracts
 
-## Contract Opportunity Search
+## State and Local Contract Opportunity Search
 
-### Creating Filters
+Contract opportunities are available on the Contract Opportunity Search page, which can be found under _State | Local -> Business Development -> Opportunities -> Contracts_ in the sidebar or by clicking [here](https://www.highergov.com/sl/contract-opportunity/).
 
-To search for state, local, and education contract opportunities, go to _Business Development --> Opportunities --> Contracts_ in the SLED sidebar or click [here](https://www.highergov.com/sl/contract-opportunity/) (must be signed in).  On this page you can add filters to narrow opportunities to those that are most relevant to your business. &#x20;
-
-Common search filters include:
-
-* **Active Opportunities**: Limit the search to contract opportunities with a deadline in the future&#x20;
-* **Keyword:** Search the opportunity titles and descriptions for specific keywords
-* **NAICS**: Limit results to contracts that are classified under a particular North American Industry Classification System code
-* **PSC**: Limit results to contracts that are classified under a particular Product Services Code
-* **State**: Limit results to where the issuing agency is within a specific state or region
+On this page, you can select the Add Filters dropdown to add filters to find the opportunities most relevant to your business (a full list is below). &#x20;
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Saving Searches
+As you find potentially interesting contract opportunities, click the opportunity title to open up the Contract Opportunity detail page to see the opportunity description, history, related solicitations, documents, similar opportunities, and other details. &#x20;
 
-On the Contract Opportunity Search page (as well as all other Search pages on HigherGov), you can press the Save button to save your search to easily access later.  When saving a Search you can also opt-in to receive an email notification when there have been new results for the search.  You can access your saved searches at any time by selecting the dropdown arrow next to the Save button or by going to _Tools --> Saved Searches_ in the sidebar.
+{% content-ref url="../highergov-basics/saved-searches-and-alerts.md" %}
+[saved-searches-and-alerts.md](../highergov-basics/saved-searches-and-alerts.md)
+{% endcontent-ref %}
 
-### Daily Recommendations
+{% content-ref url="../highergov-basics/favoriting-tracking-and-passing.md" %}
+[favoriting-tracking-and-passing.md](../highergov-basics/favoriting-tracking-and-passing.md)
+{% endcontent-ref %}
 
-You can also opt-in to receive a daily email of recommended contract opportunities by signing in and selecting the gear icon in the upper right, going to Profile, and switching on **Daily State and Local Opportunities Email**.  For annual subscribers, this email will be customized to the most relevant opportunities based on the contractor they work for.
+## Data Sources
 
-{% hint style="info" %}
-HigherGov covers 10,000+ State, Local, and Education agencies in all 50 states, Washington D.C., and U.S. territories.
-{% endhint %}
+HigherGov integrates data from 40,000+ agencies across the state, local, education, and public utilities markets.  All of our subscriptions include access to opportunities in all 50 states, Washington D.C., and in U.S. territories.
+
+## Available State and Local Contract Opportunity Search Filters
+
+#### Quick
+
+* **Active Opportunity:** Filter for opportunities with a due date in the future&#x20;
+* **Exclude No Bid:** Exclude opportunities from the results that you have marked as No Bid.&#x20;
+* **My Favorites:** Filter for opportunities that you have marked as a favorite&#x20;
+* **My Pursuits:** Filter for opportunities linked to at least one Pursuit for which you are the owner.  This filter is only available if you have [Created a Pipeline](../pursuit-management/create-a-pipeline.md) and at least one pursuit.&#x20;
+
+#### Search
+
+* **Keywords:** Keywords found in the contract description, document summaries, or other metadata.  Learn more about accepted keyword syntax in the [Search Basics](../highergov-basics/search-basics.md). &#x20;
+* **Agency:** Filter by the state and local agency that issued the opportunity&#x20;
+* **Due Date:** Filter by the current due date of the contract opportunity&#x20;
+* **Date Posted:** Filter by the most recent posting date of the contract&#x20;
+* **Experience:** Filter for recommended opportunities based on a company's prior experience or registration information.   This filter is only available for Federal contractors with a linked profile
+* **NAICS:** Six-digit code used to classify businesses by type of economic activity.  Unlike federal agencies, most state and local agencies do not use NAICS codes. However, HigherGov adds these codes to each opportunity for ease of filtering.  Learn more about NAICS codes [here](../reference/analyze-and-select-naics-and-psc-codes.md).&#x20;
+* **PSC / FSC:** Filter by the PSC Code, a four-character code used to describe products, services, and research and development (R\&D) purchased by the federal government.  Note that unlike federal agencies, most state and local agencies do not use PSC codes. However, HigherGov adds these codes to each opportunity.  Learn more about PSC codes [here](../reference/analyze-and-select-naics-and-psc-codes.md)
+* **State:** Filter by the location where the contract will be performed.  Opportunities can be filtered at country, state, county, or zip code level
+* **Value Range:** Filter by the approximate value range of the contract as indicated in the solicitation or based on an AI estimate when a range is not indicated in the solicitation&#x20;
 
 ## Finding Additional Information and Applying
 
-By selecting a contract opportunity, you can see the opportunity description as well as key details including the posting and due date and other relevant information.  Most contract opportunities will have a direct link to the source where you can learn additional information about the contract opportunity and details on how to apply.  In some cases, the opportunity source may not have a linkable page, and it may be necessary to search for the contract opportunity ID or title at the source to see additional details.
+By selecting a contract opportunity, you can see the opportunity description and key details including the posting, due date, and other relevant information. &#x20;
 
-<figure><img src="../.gitbook/assets/screenshot2.png" alt=""><figcaption></figcaption></figure>
+Opportunities will have a direct link to the source where you can learn additional information about the contract opportunity and details on how to apply. &#x20;
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-
-{% content-ref url="federal-prime-contracts.md" %}
-[federal-prime-contracts.md](federal-prime-contracts.md)
+{% content-ref url="federal-contracts.md" %}
+[federal-contracts.md](federal-contracts.md)
 {% endcontent-ref %}

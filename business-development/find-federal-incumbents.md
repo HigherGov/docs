@@ -12,9 +12,9 @@ HigherGov will automatically search for incumbent and similar awards for new con
 
 Hover over the Similarity bar to see the matching features of the existing contract.  Click on the Award ID to learn more information about the contract. &#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 #### Searching Manually
 
@@ -29,4 +29,4 @@ Incumbent contracts and grants can also be searched for manually using the [Cont
 
 In some cases, it may make sense to also use **PSC** code or **Potential Value** as filters if there are too many results with the above filters.  Please see an example search using Date Potential End, Agency (Awarding), Place of Performance, and keywords [here](https://www.highergov.com/contract/?searchID=7Bpvih7aTWUMZ9sypkB8r#contract).
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

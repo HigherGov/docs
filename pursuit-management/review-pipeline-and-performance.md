@@ -60,10 +60,10 @@ Need to make adjustments quickly?  The Pursuits tab in the Pipeline Review allow
 
 ## Related Pages
 
-{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
-[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
+{% content-ref url="../find-opportunities/federal-contracts.md" %}
+[federal-contracts.md](../find-opportunities/federal-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/federal-grants-and-subgrants.md" %}
-[federal-grants-and-subgrants.md](../find-opportunities/federal-grants-and-subgrants.md)
+{% content-ref url="../find-opportunities/federal-grants.md" %}
+[federal-grants.md](../find-opportunities/federal-grants.md)
 {% endcontent-ref %}

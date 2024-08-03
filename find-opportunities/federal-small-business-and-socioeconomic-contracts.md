@@ -4,14 +4,14 @@ description: >-
   Set-Aside or Socioeconomic Status such as 8(a) or SDVOSB
 ---
 
-# Federal Small Business Contracts
+# Federal Small Business and Socioeconomic Contracts
 
 {% hint style="info" %}
 This guide is focused on tips for finding set-aside contract opportunities.  To learn more generally how to search for prime contract opportunities including how to save searches, receive daily recommendations, and more, please see the below guide.
 {% endhint %}
 
-{% content-ref url="federal-prime-contracts.md" %}
-[federal-prime-contracts.md](federal-prime-contracts.md)
+{% content-ref url="federal-contracts.md" %}
+[federal-contracts.md](federal-contracts.md)
 {% endcontent-ref %}
 
 ## Contract Opportunity Search

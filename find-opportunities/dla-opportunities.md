@@ -31,7 +31,7 @@ Current and historical opportunities posted to DIBBS can be found on the [Contra
 
 To find relevant opportunities, select the Add Filters button.  The most common filters used for DIBBS Opportunities include **PSC** (also known FSC), **NSN**, and **Set Aside**.  If you want to limit opportunities to those that are currently active, you can select the **Active Opportunity** filter. &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can learn more about searching in HigherGov here:
 
@@ -39,8 +39,8 @@ You can learn more about searching in HigherGov here:
 [search-basics.md](../highergov-basics/search-basics.md)
 {% endcontent-ref %}
 
-{% content-ref url="../highergov-basics/saved-searches.md" %}
-[saved-searches.md](../highergov-basics/saved-searches.md)
+{% content-ref url="../highergov-basics/saved-searches-and-alerts.md" %}
+[saved-searches-and-alerts.md](../highergov-basics/saved-searches-and-alerts.md)
 {% endcontent-ref %}
 
 ## Analyzing DIBBS Opportunities

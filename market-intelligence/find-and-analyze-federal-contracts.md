@@ -18,18 +18,18 @@ If you already know the contract ID of the contract you are looking for, you can
 
 ### Searching for Contracts
 
-You can search for IDVs, contracts, and subcontracts on the Contract search page by going to _Marketing Intelligence --> Awards --> Contracts_ in the sidebar or by clicking [here](https://www.highergov.com/contract/).  Here you can search by keyword or more than 35 different filters to find contracts including **Agency**, **NAICS**, **PSC**, **Start Date**, **End Date**, **Place of Performance**, **Set Aside**, and more. &#x20;
+You can search for IDVs, contracts, and subcontracts on the Contract search page by going to _Marketing Intelligence -> Awards -> Contracts_ in the sidebar or by clicking [here](https://www.highergov.com/contract/).  Here you can search by keyword or more than 35 different filters to find contracts including **Agency**, **NAICS**, **PSC**, **Start Date**, **End Date**, **Place of Performance**, **Set Aside**, and more. &#x20;
 
 You can also use the contract search to find potential recompete and subcontract opportunities. &#x20;
 
 ![](<../.gitbook/assets/Contract Search.png>)
 
-{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
-[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
+{% content-ref url="../find-opportunities/federal-contracts.md" %}
+[federal-contracts.md](../find-opportunities/federal-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/federal-subcontracts.md" %}
-[federal-subcontracts.md](../find-opportunities/federal-subcontracts.md)
+{% content-ref url="../find-opportunities/federal-subcontracts-and-subgrants.md" %}
+[federal-subcontracts-and-subgrants.md](../find-opportunities/federal-subcontracts-and-subgrants.md)
 {% endcontent-ref %}
 
 If you want to learn more about a contract you click into the detail page to see more detail.

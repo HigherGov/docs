@@ -4,7 +4,7 @@ description: >-
   to the Public
 ---
 
-# Find Opportunities Before Competitors
+# Forecasted Opportunities and Expiring Awards
 
 ## Importance of Finding Opportunities First
 
@@ -30,34 +30,43 @@ Opportunities that have been formally posted to sam.gov but are not yet at the s
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Recompetes
+## Potential Recompetes (Expiring Contracts)
 
-Existing IDV and Prime contracts that are likely to recompete in the near term can be found by going to _Awards --> Contracts_ in the sidebar (or by clicking [here](https://www.highergov.com/contract/)) and selecting **Recompete Opportunities** under Quick search.  This filters for contracts that based on duration, value, and other factors are likely to recompete within the next 9 months.  You can add your own filters such as **Agency**, **NAICS**, **Set Aside** or other filters to further focus on the most relevant contracts for your business.
+### Searching for Potential Recompetes
 
-By clicking the Award ID, you can learn more about the existing contract, including the description and categorizations, awarding/funding agency, incumbent, timing, and more.
+An effective way to find upcoming contract opportunities is to find relevant contracts that may recompete before they become publicly available as solicitations (if they do ever become publicly available).  You can search for potential IDV and Prime Contract recompetes from the Contract search page at _Market Intelligence -> Awards -> Contracts_ in the sidebar or by clicking [here](https://www.highergov.com/contract/). &#x20;
+
+Here you can search for relevant potential recompetes by selecting the **Potential Recompete** option under Filters and then adding your own additional filters to customize your search (for example, **NAICS**, **PSC**, **Agency**, **Set Aside**, etc.).  The Potential Recompete filter looks specifically for contracts that are more likely to have upcoming recompetes based on timing, size, and other criteria.  Alternatively, rather than selecting the **Potential Recompete** Quick search, you can create your own filter to find using the **Date Potential End** filter.
 
 <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+
+Once you have found potential recompetes, you can open the IDV or Contract to find additional details about the type of work, incumbent, previous related Contract Opportunities, and the people involved in creating or approving the contract.
 
 ### Vulnerable Incumbents
 
 You can further limit your search for recompetes to target by looking for contracts where the incumbent contractor may not be able to recompete for the contract.  As incumbents typically win recompetes 50-75% of the time, identifying and focusing on recompete opportunities where the incumbent may no longer be eligible for the contract, can greatly increase the likelihood of winning.
 
-There are two Quick filters available to search for vulnerable incumbents on the Contract Award page:&#x20;
+#### Small Business Graduations (Vulnerable SB)
 
-* **Vulnerable 8(a)**: Contracts where the awardee will graduate from the 8(a) program before recompete
-* **Vulnerable Small Business**: Contracts where the awardee has potentially exceeded the NAICS size standard (either due to growth or acquisition)
+You can also search for potential recompetes for competitors or other awardees that you know have exceeded their SBA NAICS thresholds by filtering by **Awardee** on the Contracts search page and combing this filter with the **Potential Recompete** filter or other relevant filters.
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 8(a) Graduations (Vulnerable 8(a))
+
+If you participate in the 8(a) program, an additional way to find recompetes is to search for contracts currently held by 8(a) program members who will soon be graduating and thus are more likely to be awarded to a new contractor upon recompete.  You can filter for these contracts on the [Contracts ](https://www.highergov.com/contract/)search page by selecting the **Vulnerable 8(a)** Quick filter.  You can combine this filter with the **Potential Recompete** filter and other relevant additional filters to narrow down to the potential recompetes most relevant to you.
 
 ## Grant Opportunities
 
 ### Forecasted Opportunities
 
-Agencies that award grants will frequently provide forecasts of grant opportunities in advance of a formal posting.  To find forecasted grant opportunities, go to _Opportunities --> Grants_ in the sidebar (or click [here](https://www.highergov.com/grant-opportunity/)) and select **Posting Type** from the list of filters and choose the Forecasted checkmark. &#x20;
+Agencies that award grants will frequently provide forecasts of grant opportunities in advance of a formal posting.  To find forecasted grant opportunities, go to _Opportunities -> Grants_ in the sidebar (or click [here](https://www.highergov.com/grant-opportunity/)) and select **Posting Type** from the list of filters and choose the Forecasted checkmark. &#x20;
 
 ### Recompetes
 
-To find grants that are likely to be re-awarded, go to _Awards --> Grants_ in the sidebar (or click [here](https://www.highergov.com/grant/)) and select **Recompete Opportunities** under Quick Search.  This filters for grants that based on duration, value, and other factors are likely to recompete within the next 9 months.  You can add your own filters such as **Agency**, **Assistance Type**, or **Place of Performance** or other filters to further focus on the most relevant contracts for your business.
+An effective way to find potential upcoming grant opportunities is to find relevant grants that may recompete.  You can search for potential Grant recompetes from the Grant search page at _Market Intelligence -> Awards -> Grants_ in the sidebar or by clicking [here](https://www.highergov.com/grant/). &#x20;
+
+To find grants that are likely to be re-awarded, go to _Awards --> Grants_ in the sidebar (or click [here](https://www.highergov.com/grant/)) and select **Recompete Opportunities** under Quick Search.  This filters for grants that based on duration, value, and other factors are likely to recompete within the next 12 months.  You can add your own filters such as **Agency**, **Assistance Type**, or **Place of Performance** or other filters to further focus on the most relevant contracts for your business.
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 

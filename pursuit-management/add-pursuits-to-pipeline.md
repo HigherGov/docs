@@ -14,16 +14,16 @@ Before creating pursuits, you must first [create a pipeline](create-a-pipeline.m
 
 HigherGov has many tools to help to identify potential opportunities.  See one of the below topics for more details on some of the available tools.
 
-{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
-[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
+{% content-ref url="../find-opportunities/federal-contracts.md" %}
+[federal-contracts.md](../find-opportunities/federal-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/federal-subcontracts.md" %}
-[federal-subcontracts.md](../find-opportunities/federal-subcontracts.md)
+{% content-ref url="../find-opportunities/federal-subcontracts-and-subgrants.md" %}
+[federal-subcontracts-and-subgrants.md](../find-opportunities/federal-subcontracts-and-subgrants.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/federal-grants-and-subgrants.md" %}
-[federal-grants-and-subgrants.md](../find-opportunities/federal-grants-and-subgrants.md)
+{% content-ref url="../find-opportunities/federal-grants.md" %}
+[federal-grants.md](../find-opportunities/federal-grants.md)
 {% endcontent-ref %}
 
 {% content-ref url="../find-opportunities/state-and-local-contracts.md" %}

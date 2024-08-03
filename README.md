@@ -1,10 +1,15 @@
+---
+cover: .gitbook/assets/cover8 (1).jpg
+coverY: 0
+---
+
 # The HigherGov Docs
 
 ## Tools to Win. Insights to Lead.
 
 [HigherGov](https://www.highergov.com/) provides the most comprehensive market intelligence and business development tools for government contractors, grant recipients, consultants, and agencies. &#x20;
 
-This guide provides an overview of some of the most common ways that our clients use HigherGov as well as key tools and features. &#x20;
+This guide provides an overview of some of the most common ways our subscribers use HigherGov and key tools and features. &#x20;
 
 If you have questions or need further assistance, you can reach us for support:
 

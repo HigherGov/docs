@@ -10,7 +10,7 @@ description: >-
 
 ### Partner Finder Tool
 
-The Partner Finder is a powerful tool for identifying companies that are likely to be the best fit for a given contract or grant opportunity.  The tool sorts parent contractors and grant recipients by their level of federal obligations, so you can discover who has the most relevant prior experience and/or other characteristics such as certifications to win an opportunity. &#x20;
+The Partner Finder is a powerful tool for identifying companies that are likely to be the best fit for a given contract or grant opportunity.  The tool sorts parent contractors and grant recipients by their level of federal obligations, so you can discover who has the most relevant prior experience and/or other characteristics (such as certifications) to win an opportunity. &#x20;
 
 Common use cases for the Partner Finder include:
 
@@ -19,9 +19,9 @@ Common use cases for the Partner Finder include:
 3. Identifying likely competitors for an opportunity
 4. Identifying potential acquisition targets
 
-To access the Partner Finder tool, go to _Pursuit Management --> Partner Finder_ in the sidebar or click [here](https://www.highergov.com/partner-finder/) and select either Contracts or Grants.  To search for potential partners, add Filters for data relevant to the contract opportunity. &#x20;
+To access the Partner Finder tool, go to _Business Development -> Partner Finder_ in the sidebar or click [here](https://www.highergov.com/partner-finder/) and select either Contracts or Grants.  To search for potential partners, add Filters for data relevant to the contract opportunity. &#x20;
 
-For Contracts, the recommended Experience filters to add include (but are limited to):
+For Contracts, the recommended Experience filters to add include (but are not limited to):
 
 * **Agency (Awarding)**&#x20;
 * **NAICS** or **PSC**
@@ -33,7 +33,7 @@ For Grants, the recommended filters to add include (but are not limited to):
 * **Agency (Awarding)**
 * **Assistance Type**
 * **Place of Performance**
-* **Amount Obligated** (suggest setting a very wide range)
+* **Amount Obligated** (recommend setting a very wide range)
 
 In some cases, you may also want to add Registration Info filters (which are listed at the bottom of the filters below the Experience filters).  Use these filters if you want to limit your results to companies or organizations that meet certain registration or demographic information such as having a certain certification.  For example, while the Experience **Set Aside** filter allows you to find contractors that have won the most awards with an 8(a) set-asides, the Registration Info **Certification** filter allows you to limit results to contractors that are active in the 8(a) program regardless of if they have historically won contracts with an 8(a) set-aside.
 
@@ -101,10 +101,10 @@ You can find an Awardee's GSA schedule on the Awardee page.  Alternatively, you 
 
 ## Related Pages
 
-{% content-ref url="../find-opportunities/federal-prime-contracts.md" %}
-[federal-prime-contracts.md](../find-opportunities/federal-prime-contracts.md)
+{% content-ref url="../find-opportunities/federal-contracts.md" %}
+[federal-contracts.md](../find-opportunities/federal-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../find-opportunities/federal-grants-and-subgrants.md" %}
-[federal-grants-and-subgrants.md](../find-opportunities/federal-grants-and-subgrants.md)
+{% content-ref url="../find-opportunities/federal-grants.md" %}
+[federal-grants.md](../find-opportunities/federal-grants.md)
 {% endcontent-ref %}

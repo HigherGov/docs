@@ -5,7 +5,7 @@ description: Receive a daily email of new relevant opportunities
 # Daily Opportunity Emails
 
 {% hint style="info" %}
-This document discusses setting up a daily email of new opportunities tailored to your business.  To receive updates to a saved search, see the documentation on [Saved Searches](saved-searches.md).   &#x20;
+This document discusses setting up a daily email of new opportunities tailored to your business.  To receive updates to a saved search, see the documentation on [Saved Searches](saved-searches-and-alerts.md).   &#x20;
 {% endhint %}
 
 ### Turning on Emails

@@ -6,27 +6,9 @@ description: >-
 
 # Search Basics
 
-## Ways to Search HigherGov
+## Category Search
 
-### Quick Search
-
-If you know exactly what you're looking for, the fastest way to find records in HigherGov is by using the Quick Search bar at the top of every page.  The Quick Search bar accepts IDs (such as contract or grant IDs, solicitation numbers, or UEIs) as well as names for records such as awardees or agencies. &#x20;
-
-Press Enter in the Quick Search to open your search in Search All.
-
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Search All
-
-If you're performing general research on a topic or are not sure exactly what you're looking for, you can use the [search all](https://www.highergov.com/all/) screen to quickly filter the entire HigherGov database by keyword.  &#x20;
-
-Once you type in a keyword or set of keywords, tabs will highlight where results are found.  Within each of those tabs, you can select **See All Results -->** to open up the Category Search screen to add more advanced filters.
-
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Category Search
-
-All major datasets within HigherGov have a Category Search screen listed in the sidebar.  Most of these screens work similarly, although the filters available will vary based on underlying data.
+All major datasets within HigherGov have a Category Search screen listed in the sidebar.  Most of these screens work similarly, although the filters available will vary based on the type of data being searched.
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +16,7 @@ The buttons that are available on the Category Search pages include:
 
 * **Add Filters**: Add powerful filters to your search to limit results
 * **Export**: Download your records in the .csv or .xlsx (Excel) formats
-* **Save**: Save your search for future reference.  Press the down caret next to the save button to Open your previous searches
+* **Save**: Save your search for future reference.  Press the down caret next to the save button to Open your previous searches.  Learn more about saving searches [here](saved-searches-and-alerts.md).
 * **Share**: Send your search to someone else either with a URL or with an email
 * **Reset**: Clear and start your search over from scratch
 * **Columns**: Add or remove the columns that appear in the search results table
@@ -73,3 +55,23 @@ Exclude Search
 * **physical security -training** -> Contains both _physical_ and _security_ and excludes _training_
 
 There is no limit on the number of keywords that can be joined in an "or" search.
+
+## Other Ways to Search HigherGov
+
+### Quick Search Bar
+
+If you know exactly what you're looking for, the fastest way to find records in HigherGov is by using the Quick Search bar at the top of every page.  The Quick Search bar accepts IDs (such as contract or grant IDs, solicitation numbers, or UEIs) as well as names for records such as awardees or agencies. &#x20;
+
+Press Enter in the Quick Search to open your search in Search All.
+
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Search All
+
+If you're performing general research on a topic or are not sure exactly what you're looking for, you can use the [search all](https://www.highergov.com/all/) screen to quickly filter the entire HigherGov database by keyword.  &#x20;
+
+Once you type in a keyword or set of keywords, tabs will highlight where results are found.  Within each of those tabs, you can select **See All Results -->** to open up the Category Search screen to add more advanced filters.
+
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+###

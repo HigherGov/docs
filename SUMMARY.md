@@ -5,20 +5,20 @@
 ## HigherGov Basics
 
 * [Search Basics](highergov-basics/search-basics.md)
-* [Saved Searches](highergov-basics/saved-searches.md)
-* [Daily Opportunity Emails](highergov-basics/daily-opportunity-emails.md)
+* [Saved Searches and Alerts](highergov-basics/saved-searches-and-alerts.md)
 * [Favoriting, Tracking, and Passing](highergov-basics/favoriting-tracking-and-passing.md)
 * [Adding Users to Your Account](highergov-basics/adding-users-to-your-account.md)
+* [Daily Opportunity Emails](highergov-basics/daily-opportunity-emails.md)
 
 ## Find Opportunities
 
-* [Federal Prime Contracts](find-opportunities/federal-prime-contracts.md)
-* [Federal Subcontracts](find-opportunities/federal-subcontracts.md)
-* [Federal Small Business Contracts](find-opportunities/federal-small-business-contracts.md)
-* [Find Opportunities Before Competitors](find-opportunities/find-opportunities-before-competitors.md)
-* [Federal Grants and Subgrants](find-opportunities/federal-grants-and-subgrants.md)
-* [DLA Opportunities](find-opportunities/dla-opportunities.md)
+* [Federal Contracts](find-opportunities/federal-contracts.md)
+* [Federal Grants](find-opportunities/federal-grants.md)
 * [State and Local Contracts](find-opportunities/state-and-local-contracts.md)
+* [DLA Opportunities](find-opportunities/dla-opportunities.md)
+* [Forecasted Opportunities and Expiring Awards](find-opportunities/forecasted-opportunities-and-expiring-awards.md)
+* [Federal Small Business and Socioeconomic Contracts](find-opportunities/federal-small-business-and-socioeconomic-contracts.md)
+* [Federal Subcontracts and Subgrants](find-opportunities/federal-subcontracts-and-subgrants.md)
 
 ## Business Development
 

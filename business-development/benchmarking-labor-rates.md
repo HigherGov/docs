@@ -6,7 +6,7 @@ description: How to research and competitively price labor rates
 
 ## Overview of Price Benchmarking
 
-The HigherGov Price Benchmarking tool allows you to research labor rates offered to the government by other government contractors.  By benchmarking labor rates, you can determine whether the labor rates you offer are likely to be competitive when submitting RFPs, submitting pricing for GSA Schedules or contract vehicles, or making decisions about what markets to enter.  The price benchmarking tool can be found at _Business Development --> Pricing_ or by clicking [here](https://www.highergov.com/price-benchmarking/). &#x20;
+The HigherGov Price Benchmarking tool allows you to research labor rates offered to the government by other government contractors.  By benchmarking labor rates, you can determine whether the labor rates you offer are likely to be competitive when submitting RFPs, submitting pricing for GSA Schedules or contract vehicles, or making decisions about what markets to enter.  The price benchmarking tool can be found at _Business Development -> Labor Pricing_ or by clicking [here](https://www.highergov.com/price-benchmarking/). &#x20;
 
 {% hint style="info" %}
 All prices in the labor tool are not-to-exceed (ceiling) fully-burdened labor rates. Actual rates will typically be 10-20% below the not-to-exceed rates.
@@ -47,6 +47,12 @@ If you need pricing for a particular competitor and it is not available in the p
 
 ![](../.gitbook/assets/gsa\_schedules.png)
 
+### Contract-Level Labor Pricing
+
+For most federal labor contracts over $500,000 that are more than 18 months old, HigherGov tracks the applicable blended labor rate on the contract.   This will be available in the Labor Services Billing section on the federal contract award page.  These rates represent the average blended rate that the government paid for the services component of the contract as reported by the Awardee. &#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Product Pricing or Other Labor Categories
 
-If you need pricing for a product or a job title that is not available in the tool, or if you would like to find additional prices, you can search other GSA Schedules for relevant job titles.  To find additional GSA schedules, go to _Market Intelligence --> Documents_, select the filter for **Source** and choose Federal Schedule (or click [here](https://www.highergov.com/document/?searchID=3jaqQgZZz6ieGwclJ97rD)).  To find schedules with relevant job titles, search for relevant Keywords.  You can further narrow results by putting the keyword search in quotes (e.g., "Janitorial Services").
+If you need pricing for a product or a job title that is not available in the tool, or if you would like to find additional prices, you can search other GSA Schedules for relevant job titles.  To find additional GSA schedules, go to _Market Intelligence -> Documents_, select the filter for **Source** and choose Federal Schedule (or click [here](https://www.highergov.com/document/?searchID=3jaqQgZZz6ieGwclJ97rD)).  To find schedules with relevant job titles, search for relevant Keywords.  You can further narrow results by putting the keyword search in quotes (e.g., "Janitorial Services").

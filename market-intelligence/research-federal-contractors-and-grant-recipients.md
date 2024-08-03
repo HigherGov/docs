@@ -12,7 +12,7 @@ There are three primary ways to search for an Awardee on HigherGov:
 
 1. The Search Bar at the top of every page.  Fastest if you already know the Name, UEI, or CAGE Code of the Awardee.
 2. The Awardee search (_Market Intelligence --> Awardees_ in the sidebar or [here](https://www.highergov.com/awardee/)).  Best if you want to filter by Awardee characteristics such as **Primary NAICS**, **Headquarters**, **Ownership Types**, **Obligations**, etc.
-3. The Awardee Ranking Analysis Tool (_Explore --> Analysis_ in the sidebar or [here](https://www.highergov.com/analysis/award/) (must be signed-in) and then select the Awardee Rankings tab).  Best if you want to research which Awardees are most prevalent in any combination of **NAICS**, **PSC**, **Set Aside**, **Agency**, **Contract** / **Grant Type,awards** or any other available search criteria. &#x20;
+3. Partner Finder Tool (Business Development _-> Partner Finder_ in the sidebar or [here](https://www.highergov.com/analysis/award/)).  Best if you want to research which Awardees are most prevalent in any combination of **NAICS**, **PSC**, **Set Aside**, **Agency**, **Contract** / **Grant Type, awards,** or any other available search criteria. &#x20;
 
 ## Awardee Overview&#x20;
 
