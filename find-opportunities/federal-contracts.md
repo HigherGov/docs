@@ -4,6 +4,10 @@ description: How to Identify Relevant Federal Prime Contract Opportunities
 
 # Federal Contracts
 
+{% hint style="info" %}
+Need to understand the basics of search like Keyword syntax?  See [Search Basics](../highergov-basics/search-basics.md)
+{% endhint %}
+
 ## Federal Contract Opportunity Search
 
 Contract opportunities are available on the Contract Opportunity Search page, which can be found under _Business Development -> Opportunities -> Contracts_ in the sidebar or by clicking [here](https://www.highergov.com/contract-opportunity/).

@@ -6,6 +6,10 @@ description: >-
 
 # State and Local Contracts
 
+{% hint style="info" %}
+Need to understand the basics of search like Keyword syntax?  See [Search Basics](../highergov-basics/search-basics.md)
+{% endhint %}
+
 ## State and Local Contract Opportunity Search
 
 Contract opportunities are available on the Contract Opportunity Search page, which can be found under _State | Local -> Business Development -> Opportunities -> Contracts_ in the sidebar or by clicking [here](https://www.highergov.com/sl/contract-opportunity/).

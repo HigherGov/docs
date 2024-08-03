@@ -4,6 +4,10 @@ description: How to Easily Find and Pursue Federal Prime Grant Opportunities
 
 # Federal Grants
 
+{% hint style="info" %}
+Need to understand the basics of search like Keyword syntax?  See [Search Basics](../highergov-basics/search-basics.md)
+{% endhint %}
+
 ## Federal Grant Opportunity Search
 
 Grant opportunities are available on the Grant Opportunity Search page, which can be found under _Business Development -> Opportunities -> Grants_ in the sidebar or by clicking [here](https://www.highergov.com/grant-opportunity/).
