@@ -44,6 +44,12 @@ https://www.highergov.com/api-external/opportunity/?api\_key=your-api-key-here\&
 
 For best results with the search\_id filter in the Opportunity endpoint, we recommend also using the source\_type and captured\_date filters to limit your call to the most relevant data source(s) and most recent dates. &#x20;
 
+### Downloading Opportunity Files
+
+To download opportunity files, first make a call to the Opportunity endpoint.  In the results, there will be a field called document\_path that will provide a path to call to the Document endpoint.  Making this call to the Document endpoint will return information on all of the documents related to the opportunity including a set of download\_url paths that can be used to download files. &#x20;
+
+Please note that the provided download\_url will expire after 60 minutes, and if files are not downloaded within that timeframe, a new call will need to be made to the Document endpoint.&#x20;
+
 ### Data Refresh Rate
 
 Data is generally updated shortly after the underlying data source. Some examples are shown below.
@@ -72,6 +78,7 @@ api_key = 'your-api-key-here'
 params = {
     'api_key': api_key,
     'last_modified_date': '2023-07-06',
+    'search_id': 'z9zi90apiU_Zyl3T2CUZa',    
     'page_number': '1',
 }
 
@@ -99,6 +106,7 @@ const api_key = 'your-api-key-here';
 let params = {
     'api_key': api_key, 
     'last_modified_date': '2023-07-06',
+    'search_id': 'z9zi90apiU_Zyl3T2CUZa',        
     'page_number': '1',
 };
 
@@ -130,6 +138,7 @@ $api_key = 'your-api-key-here';
 $params = http_build_query([
     'api_key' => $api_key,
     'last_modified_date' => '2023-07-06',
+   'search_id' => 'z9zi90apiU_Zyl3T2CUZa',    
     'page_number' => '1',
 ]);
 
