@@ -79,3 +79,202 @@ You can automatically create new pursuits from Federal Contract Opportunity,  St
 You will receive a message shortly after adding, indicating that the Pursuit has been successfully sent to Zapier using the Pipeline you selected or you will receive an error. &#x20;
 
 <figure><img src="../.gitbook/assets/image (57).png" alt="" width="334"><figcaption></figcaption></figure>
+
+
+
+## Zapier API Endpoints
+
+{% hint style="info" %}
+The below covers the technical endpoints used to support the Zapier integration.  Documentation on the main HigherGov API endpoints is available [here](../more/api.md).
+{% endhint %}
+
+### Base URL
+
+The base URL for our Zapier endpoints is `https://www.highergov.com/zapier` this will be referred to as `{{BASE_URL}}`.
+
+### Authentication
+
+This is the endpoint that Zapier calls when a user is attempting to log into Zapier.
+
+Location:
+
+&#x20;`{{BASE_URL}}/auth/`.
+
+Sample Request**:**
+
+```
+const options = {
+  url: '{{BASE_URL}/auth/',
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'X-API-KEY': api_key,
+  },
+};
+
+return z.request(options)
+  .then((response) => {
+    response.throwForStatus();
+    const results = response.json;
+
+    return results;
+})
+```
+
+Successful Response (201):
+
+`{"status": "success", "message": "API Key Validated", "subscription_name": "AcmeCo Pipeline"}`
+
+### Subscribe
+
+This is the endpoint that Zapier calls when a user is attempting to subscribe to a Zapier webhook.
+
+Location:
+
+&#x20;`{{BASE_URL}}/pipeline/subscribe/`.
+
+Sample Request**:**
+
+```
+const options = {
+  url: '{{BASE_URL}/pipeline/subscribe/',
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'X-API-KEY': api_key,
+  },
+},
+  body: JSON.stringify({
+    target_url: bundle.targetUrl  
+  }),
+};
+
+return z.request(options)
+  .then((response) => {
+    response.throwForStatus();
+    const results = response.json;
+
+    return results;
+})
+```
+
+Successful Response (201):
+
+`{"status": "success", "message": "New subscription created"}`
+
+### Unsubscribe
+
+This is the endpoint that Zapier calls when a user is attempting to unsubscribe from a Zapier webhook.
+
+Location:
+
+&#x20;`{{BASE_URL}}/pipeline/unsubscribe/`.
+
+Sample Request**:**
+
+```
+const options = {
+  url: '{{BASE_URL}/pipeline/unsubscribe/',
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'X-API-KEY': api_key,
+  },
+};
+
+return z.request(options)
+  .then((response) => {
+    response.throwForStatus();
+    const results = response.json;
+
+    return results;
+})
+```
+
+Successful Response (201):
+
+`{"status": "success", "message": "Subscription cancelled"}`
+
+### Perform List
+
+Returns sample data.
+
+Location:
+
+&#x20;`{{BASE_URL}}/perform/`
+
+Sample Request**:**
+
+```
+const options = {
+  url: '{{BASE_URL}/perform/',
+  method: 'Get',
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+  },
+};
+
+return z.request(options)
+  .then((response) => {
+    response.throwForStatus();
+    const results = response.json;
+
+    return results;
+})
+```
+
+Successful Response (201):
+
+```
+{
+"title": "string",
+"description_text": "string",
+"source_id": "string",
+"source_id_version": "string",
+"captured_date": "string",
+"posted_date": "string",
+"due_date": "string",
+"agency": {
+"agency_key": "string",
+"agency_name": "string",
+"agency_abbreviation": "string",
+"agency_type": "string",
+"path": "string"
+},
+"naics_code": {
+"naics_code": "string"
+},
+"psc_code": {
+"psc_code": "string"
+},
+"primary_contact_email": {
+"contact_title": "string",
+"contact_name": "string",
+"contact_first_name": "string",
+"contact_last_name": "string",
+"contact_email": "string",
+"contact_phone": "string"
+},
+"secondary_contact_email": {
+"contact_title": "string",
+"contact_name": "string",
+"contact_first_name": "string",
+"contact_last_name": "string",
+"contact_email": "string",
+"contact_phone": "string"
+},
+"set_aside": "string",
+"opp_key": "string",
+"version_key": "string",
+"source_type": "string",
+"unweighted_value": "string",
+"current_datetime": "string",
+"user_email": "string",
+"path": "string"
+}
+```
+
