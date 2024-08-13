@@ -12,6 +12,7 @@ HigherGov makes it easy for anyone to quickly and easily obtain information thro
 
 1. **Statement of Work:** Typically includes required and optional tasks and a schedule of deliverables for an existing contract. Note that pricing details may be redacted by the government prior to release.
 2. **Bidders Lists:**  See who submitted a bid or application for a contract or grant.&#x20;
+3. **Winning Proposal (State and Local Only)**: The proposal submitted by the winning contractor.  Note that per Federal regulations, the winning proposal will not be disclosed for Federal FOIA requests.  Winning proposals are often disclosable in State and Local markets, though availability will vary based on jurisdiction. &#x20;
 
 {% hint style="info" %}
 In order to submit a FOIA request, you must have an annual HigherGov subscription.
