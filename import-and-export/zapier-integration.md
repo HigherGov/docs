@@ -36,19 +36,25 @@ Select the gear icon in the upper right of the platform and select Integrations 
 
 Scroll down to Zapier Integration and click the Create Pipeline button. &#x20;
 
-<figure><img src="../.gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Give your pipeline a name and select the CRM you are linking to.  If your CRM is not listed you can type in the name and press enter.  &#x20;
 
-<figure><img src="../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Securely save your Secret Key as it will only be available on this screen once.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Configuring Zapier**
 
-To connect HigherGov to your CRM with Zapier, you will need to create a Zap.  Detailed instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h\_01H91E3WYAFDT8KEE45ST76WKW).  A list of availble templates is available [here](https://zapier.com/apps/highergov/integrations#zap-template-list).
+To connect HigherGov to your CRM with Zapier, you will need to create a Zap.  Detailed instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h\_01H91E3WYAFDT8KEE45ST76WKW).  A list of available templates is available [here](https://zapier.com/apps/highergov/integrations#zap-template-list).
+
+
+
+{% embed url="https://cdn.zapier.com/packages/partner-sdk/v0/zapier-elements/zapier-elements.esm.js" %}
+
+
 
 HigherGov provides one Trigger called the Pursuit Added Trigger that sends key information on the opportunity to your linked CRM.  As part of creating your Zap and authenticating with HigherGov, you will provide the Secret Key you created above.&#x20;
 
