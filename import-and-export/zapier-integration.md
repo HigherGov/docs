@@ -7,10 +7,6 @@ description: >-
 # Zapier Integration
 
 {% hint style="info" %}
-Zapier integration is currently in Beta.  Some features may change.
-{% endhint %}
-
-{% hint style="info" %}
 Zapier integration requires a HigherGov Standard or Leader plan subscription.  If you would like to upgrade or learn more, please [contact us](mailto:contact@highergov.com).
 {% endhint %}
 
@@ -49,12 +45,6 @@ Securely save your Secret Key as it will only be available on this screen once.
 ### **Configuring Zapier**
 
 To connect HigherGov to your CRM with Zapier, you will need to create a Zap.  Detailed instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h\_01H91E3WYAFDT8KEE45ST76WKW).  A list of available templates is available [here](https://zapier.com/apps/highergov/integrations#zap-template-list).
-
-
-
-{% embed url="https://cdn.zapier.com/packages/partner-sdk/v0/zapier-elements/zapier-elements.esm.js" %}
-
-
 
 HigherGov provides one Trigger called the Pursuit Added Trigger that sends key information on the opportunity to your linked CRM.  As part of creating your Zap and authenticating with HigherGov, you will provide the Secret Key you created above.&#x20;
 
