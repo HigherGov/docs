@@ -14,7 +14,7 @@ Zapier integration requires a HigherGov Standard or Leader plan subscription.  I
 
 **Zapier Account**: If you do not already have a Zapier account, you can create one [here](https://zapier.com/sign-up).  Many users may be able to connect HigherGov to their CRM using a free Zapier account.  If you expect to send more than 100 opportunities per month to your CRM (or are using Zapier for other tasks), you may require a [paid plan](https://zapier.com/pricing).  Pricing for a Zapier account is separate from a HigherGov subscription.&#x20;
 
-**CRMs Supported by Zapier**: A list of applications supported by Zapier is available [here](https://zapier.com/apps). HigherGov has tested Zapier with [HubSpot](https://www.hubspot.com/) and [Monday.com](https://highergov.monday.com/) but most [CRMs](https://zapier.com/apps/categories/sales-crm) that support creating "pursuits", "deals", or "opportunities" should be able to ingest HigherGov opportunities. &#x20;
+**CRMs Supported by Zapier**: A list of applications supported by Zapier is available [here](https://zapier.com/apps). HigherGov has tested Zapier with [HubSpot](https://www.hubspot.com/) and [Salesforce](https://www.salesforce.com/) but most [CRMs](https://zapier.com/apps/categories/sales-crm) that support creating "pursuits", "deals", or "opportunities" should be able to ingest HigherGov opportunities. &#x20;
 
 ### **Creating a Zapier Pipeline in HigherGov**
 
@@ -24,11 +24,7 @@ To create a Zapier Pipeline you must have an active HigherGov subscription and b
 
 Select the gear icon in the upper right of the platform and select Integrations or click [here](https://www.highergov.com/integration/).
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (52).png" alt="" width="110"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (52).png" alt="" width="110"><figcaption></figcaption></figure></div>
 
 Scroll down to Zapier Integration and click the Create Pipeline button. &#x20;
 
@@ -44,7 +40,7 @@ Securely save your Secret Key as it will only be available on this screen once.
 
 ### **Configuring Zapier**
 
-To connect HigherGov to your CRM with Zapier, you will need to create a Zap.  Detailed instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h\_01H91E3WYAFDT8KEE45ST76WKW).  A list of available templates is available [here](https://zapier.com/apps/highergov/integrations#zap-template-list).
+To connect HigherGov to your CRM with Zapier, you will need to create a Zap.  Detailed instructions on creating a Zap are available [here](https://help.zapier.com/hc/en-us/articles/8496309697421-Create-Zaps#h_01H91E3WYAFDT8KEE45ST76WKW).  A list of available templates is available [here](https://zapier.com/apps/highergov/integrations#zap-template-list).
 
 HigherGov provides one Trigger called the Pursuit Added Trigger that sends key information on the opportunity to your linked CRM.  As part of creating your Zap and authenticating with HigherGov, you will provide the Secret Key you created above.&#x20;
 
@@ -98,7 +94,7 @@ Location:
 
 &#x20;`{{BASE_URL}}/auth/`.
 
-Sample Request**:**
+Sample Reques&#x74;**:**
 
 ```
 const options = {
@@ -132,7 +128,7 @@ Location:
 
 &#x20;`{{BASE_URL}}/pipeline/subscribe/`.
 
-Sample Request**:**
+Sample Reques&#x74;**:**
 
 ```
 const options = {
@@ -170,7 +166,7 @@ Location:
 
 &#x20;`{{BASE_URL}}/pipeline/unsubscribe/`.
 
-Sample Request**:**
+Sample Reques&#x74;**:**
 
 ```
 const options = {
@@ -204,7 +200,7 @@ Location:
 
 &#x20;`{{BASE_URL}}/perform/`
 
-Sample Request**:**
+Sample Reques&#x74;**:**
 
 ```
 const options = {
