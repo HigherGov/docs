@@ -50,7 +50,7 @@ HigherGov integrates data from 40,000+ agencies across the state, local, educati
 * **Experience:** Filter for recommended opportunities based on a company's prior experience or registration information.   This filter is only available for Federal contractors with a linked profile
 * **NAICS:** Six-digit code used to classify businesses by type of economic activity.  Unlike federal agencies, most state and local agencies do not use NAICS codes. However, HigherGov adds these codes to each opportunity for ease of filtering.  Learn more about NAICS codes [here](../reference/analyze-and-select-naics-and-psc-codes.md).&#x20;
 * **PSC / FSC:** Filter by the PSC Code, a four-character code used to describe products, services, and research and development (R\&D) purchased by the federal government.  Note that unlike federal agencies, most state and local agencies do not use PSC codes. However, HigherGov adds these codes to each opportunity.  Learn more about PSC codes [here](../reference/analyze-and-select-naics-and-psc-codes.md)
-* **State:** Filter by the location where the contract will be performed.  Opportunities can be filtered at country, state, county, or zip code level
+* **State:** Filter by the State where the contract will be performed.&#x20;
 * **Value Range:** Filter by the approximate value range of the contract as indicated in the solicitation or based on an AI estimate when a range is not indicated in the solicitation&#x20;
 
 ## Finding Additional Information and Applying
