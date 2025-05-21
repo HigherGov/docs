@@ -14,7 +14,7 @@ Zapier integration requires a HigherGov Standard or Leader plan subscription.  I
 
 **Zapier Account**: If you do not already have a Zapier account, you can create one [here](https://zapier.com/sign-up).  Many users may be able to connect HigherGov to their CRM using a free Zapier account.  If you expect to send more than 100 opportunities per month to your CRM (or are using Zapier for other tasks), you may require a [paid plan](https://zapier.com/pricing).  Pricing for a Zapier account is separate from a HigherGov subscription.&#x20;
 
-**CRMs Supported by Zapier**: A list of applications supported by Zapier is available [here](https://zapier.com/apps). HigherGov has tested Zapier with [HubSpot](https://www.hubspot.com/) and [Salesforce](https://www.salesforce.com/) but most [CRMs](https://zapier.com/apps/categories/sales-crm) that support creating "pursuits", "deals", or "opportunities" should be able to ingest HigherGov opportunities. &#x20;
+**CRMs Supported by Zapier**: A list of applications supported by Zapier is available [here](https://zapier.com/apps). The most popular integration on HigherGov include [HubSpot](https://www.hubspot.com/), [Salesforce](https://www.salesforce.com/), [Dynamics 365](https://www.microsoft.com/en-us/dynamics-365), [Monday.com](https://monday.com/), [Pipedrive](https://www.pipedrive.com/), [SugarCRM](https://www.sugarcrm.com/), [Zoho](https://www.zoho.com/crm/), and [ClickUp](https://clickup.com/), but any [CRM](https://zapier.com/apps/categories/sales-crm) that supports creating "pursuits", "deals", or "opportunities" should be able to ingest HigherGov opportunities. &#x20;
 
 ### **Creating a Zapier Pipeline in HigherGov**
 
