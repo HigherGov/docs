@@ -39,17 +39,17 @@ If you want to learn more about a contract you click into the detail page to see
 The sections available on the detail page will depend on the type of award and the details of the contract.  The most common sections are below.
 
 * **Overview**: Provides general information about the award including the Awardee, Description, Awarding and Funding Agency, NAICS, PSC, Place of Performance, Pricing Type, Set Aside, and Extent Competed. &#x20;
-* **Funding Status **_**(IDV and Contract Only)**_: Provides the total value of the contract and start and end dates.  For IDVs, the amounts obligated and current and potential values represent the sum of all of the contracts awarded under that IDV.
+* **Funding Status&#x20;**_**(IDV and Contract Only)**_: Provides the total value of the contract and start and end dates.  For IDVs, the amounts obligated and current and potential values represent the sum of all of the contracts awarded under that IDV.
 * **Award Hierarchy**: Shows the relationship between this contract and any parent and child awards.
 
 ![](<../.gitbook/assets/award hierarchy.png>)
 
-* **Funding Timeline **_**(Contract Only)**_: Graphically shows the history of obligations funded under the contract as well as the start and current and potential end dates.
+* **Funding Timeline&#x20;**_**(Contract Only)**_: Graphically shows the history of obligations funded under the contract as well as the start and current and potential end dates.
 
 ![](../.gitbook/assets/timeline2.png)
 
 * **History**: Shows high-level details of any contract modifications (will only appear if the award has had at least one modification)
-* **Additional Details **_**(IDV and Contract Only)**_: Provides additional information about the contract including details of competition for the award, any other applicable categorizations, the government's agency categorizations, and any legislative mandates applicable to the contract.
+* **Additional Details&#x20;**_**(IDV and Contract Only)**_: Provides additional information about the contract including details of competition for the award, any other applicable categorizations, the government's agency categorizations, and any legislative mandates applicable to the contract.
 
 ## Finding Additional Information
 

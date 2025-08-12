@@ -24,9 +24,9 @@ To create a Zapier Pipeline you must have an active HigherGov subscription and b
 
 Select the gear icon in the upper right of the platform and select Integrations or click [here](https://www.highergov.com/integration/).
 
-<div align="left"><figure><img src="../.gitbook/assets/image (52).png" alt="" width="110"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure></div>
 
-Scroll down to Zapier Integration and click the Create Pipeline button. &#x20;
+Click the Create Pipeline button. &#x20;
 
 <figure><img src="../.gitbook/assets/image (61).png" alt="" width="563"><figcaption></figcaption></figure>
 

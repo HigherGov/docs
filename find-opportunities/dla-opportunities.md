@@ -2,17 +2,6 @@
 description: >-
   Find and research opportunities posted on the DLA Internet Bid Board System
   (DIBBS)
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # DLA Opportunities

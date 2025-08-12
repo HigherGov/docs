@@ -50,7 +50,7 @@ Please note that subcontract data is reported by Prime contractors and the consi
 
 ## Potential Subgrants
 
-The quickest way to search for potential subgrant opportunities is to go to the Grants search page under _Market Intelligence -> Awards -> Grants (_or click [here](https://www.highergov.com/grant/)) and select the **Subcontract Opportunities** Quick filter. This will filter for Grants that have characteristics that make them more likely to have subgrant opportunities.  You can add your own filters such as **Agency**, **Place of Performance**, **Grant Program** or other filters to further focus on the most relevant grants for your organization.
+The quickest way to search for potential subgrant opportunities is to go to the Grants search page under _Market Intelligence -> Awards -> Grants (_&#x6F;r click [here](https://www.highergov.com/grant/)) and select the **Subcontract Opportunities** Quick filter. This will filter for Grants that have characteristics that make them more likely to have subgrant opportunities.  You can add your own filters such as **Agency**, **Place of Performance**, **Grant Program** or other filters to further focus on the most relevant grants for your organization.
 
 ![](<../.gitbook/assets/subgrant opps.png>)
 

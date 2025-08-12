@@ -25,9 +25,9 @@ The below shows an example of an analysis to find the most attractive NAICS code
 
 First looking at the [largest NAICS codes](broken-reference):
 
-![](../.gitbook/assets/naics\_analysis.png)
+![](../.gitbook/assets/naics_analysis.png)
 
-Then adding the 541330 NAICS code to see the [trend in awards over time](https://www.highergov.com/analysis/award/?report=funding\_total\&date\_trend=-10\&searchID=h945AysiswxTd5\_A2lfpu):
+Then adding the 541330 NAICS code to see the [trend in awards over time](https://www.highergov.com/analysis/award/?report=funding_total\&date_trend=-10\&searchID=h945AysiswxTd5_A2lfpu):
 
 ![](<../.gitbook/assets/naics trend.png>)
 
@@ -117,7 +117,7 @@ Government Fiscal Year 2022 Small Business Contracting Goals by Agency. Source: 
 
 ### Agency Openness to New Awards
 
-Some agencies are more likely to award prime awards to new contractors than others. The below table shows the percentage of contracts awarded to contractors new to that agency (by count).  A full analysis is available for subscribers by selecting Analysis in the sidebar and selecting Custom at the top and selecting the _Prime Contractor Agency Expansion_ document_._
+Some agencies are more likely to award prime awards to new contractors than others. The below table shows the percentage of contracts awarded to contractors new to that agency (by count).  A full analysis is available for subscribers by selecting Analysis in the sidebar and selecting Custom at the top and selecting the _Prime Contractor Agency Expansion_ documen&#x74;_._
 
 {% embed url="https://gist.github.com/GovAlpha/239d4276926c1a201518ad8fbde6dea3" %}
 Analysis includes any prime contract award worth more than $20K in GFY2021 made to a parent contractor that had not received an award from that agency in prior years. The above list is limited to the top 25 sub-agencies by total count of awards.&#x20;

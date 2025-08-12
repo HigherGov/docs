@@ -31,16 +31,16 @@ Please note that subgrant data is reported by Prime grant-awardees and the consi
 The sections available on the detail page will depend on the type of award and the details of the grant.  The most common sections are below.
 
 * **Overview**: Provides general information about the award including the Awardee, Description, Grant Program (CFDA), Awarding Agency, Place of Performance, and Assistance Type. &#x20;
-* **Funding Status **_**(Prime Only)**_: Provides the total value of the grant and start and end dates. &#x20;
+* **Funding Status&#x20;**_**(Prime Only)**_: Provides the total value of the grant and start and end dates. &#x20;
 
 ![](<../.gitbook/assets/Funding Status.png>)
 
-* **Timeline **_**(Prime Only)**_: Graphically shows the history of obligations funded under the grant as well as the start and end dates.
+* **Timeline&#x20;**_**(Prime Only)**_: Graphically shows the history of obligations funded under the grant as well as the start and end dates.
 
 ![](<../.gitbook/assets/funding timeline.png>)
 
 * **History**: Shows high-level details of any grant modifications (will only appear if the award has had at least one modification)
-* **Additional Details **_**(Prime Only)**_: Provides additional information about the grant including the government's agency categorizations.
+* **Additional Details&#x20;**_**(Prime Only)**_: Provides additional information about the grant including the government's agency categorizations.
 
 ## Finding Additional Information
 
