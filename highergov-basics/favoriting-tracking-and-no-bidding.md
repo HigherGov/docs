@@ -2,7 +2,7 @@
 description: HigherGov offers multiple tools to quickly manage opportunities
 ---
 
-# Favoriting, Tracking, and Passing
+# Favoriting, Tracking, and No Bidding
 
 {% hint style="info" %}
 The below focuses on the basic tools available for quickly managing and tracking Opportunities, Awards, and other data in HigherGov.  Please see the documentation on setting up [pipelines](../pursuit-management/create-a-pipeline.md) and managing [pursuits](../pursuit-management/add-pursuits-to-pipeline.md) for more advanced options.
@@ -34,16 +34,16 @@ If the item is updated or amended, you will receive an email that show any key c
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-## Passing
+## No Bidding
 
-Opportunities, Forecasts, and Existing Award pages will have the option to mark the item as a Pass if you are not interested.   To pass on the item, click the Pass button once.  To un-Pass the item, click the button again.  If the item is Passed, a red Circle X will appear in the button.
+Opportunities, Forecasts, and Existing Award pages all have the option to mark the item as No Bid if you are not interested.   To market an item as No Bid, click the No Bid button once.  To revert, click the button again.  If the item is No Bid, a red Circle X will appear in the button.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-To remove passed items from your search results, select the Exclude Passes dropdown in the relevant search.
+To remove No Bid items from your search results, select the Exclude No Bid dropdown in the relevant search.
 
-![](<../.gitbook/assets/image (17).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-If someone else on your team has passed on an item, this will also be visible to you on the page under the navigation bar.
+If someone else on your team has No Bid on an opportunity, this will also be visible to you on the page under the navigation bar.
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

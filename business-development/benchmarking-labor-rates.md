@@ -20,7 +20,7 @@ The labor rate tool takes rates from a number of different sources including MAS
 
 The quickest way to find relevant job titles is to search for relevant Keywords; however, this can sometimes find too many or non-relevant results.  Alternatively, you can search for specific job titles by selecting **Title** from the Filters dropdown and searching for relevant job titles.  If filtering for Titles, we strongly recommend selecting multiple relevant titles as this will help increase the diversity of pricing sources, which will improve accuracy and better allow for the application of additional filters.
 
-![](<../.gitbook/assets/pricing\_example\_ful (1).png>)
+![](<../.gitbook/assets/pricing_example_ful (1).png>)
 
 ### Refining Your Search
 
@@ -31,9 +31,9 @@ Adding the below filters can help you to narrow prices to the ones most relevant
 * **Small / Large Businesses Only**: Filter for rates from contractors that were classified either as a small business or a large business by the contracting officer.
 * **Worksite**: Filter for rates applicable for Contractor or Customer site.
 
-![](<../.gitbook/assets/pricing\_example\_specific (1).png>)
+![](<../.gitbook/assets/pricing_example_specific (1).png>)
 
-Moreover, you can remove specific prices that are not relevant by clicking the ![](<../.gitbook/assets/price\_exclude (2).png>)next to the price.
+Moreover, you can remove specific prices that are not relevant by clicking the ![](<../.gitbook/assets/price_exclude (2).png>)next to the price.
 
 {% hint style="info" %}
 The labor pricing tool includes more than 470,000 active prices and more than 10,000 job titles.  If you need pricing for a competitor or job title that is not included in the tool, you can submit a request by clicking the Research button and letting us know what you are looking for (required Standard subscription). Note that we are only able to provide pricing for vehicles and schedules with publicly disclosd pricing.
@@ -45,13 +45,13 @@ The labor pricing tool includes more than 470,000 active prices and more than 10
 
 If you need pricing for a particular competitor and it is not available in the pricing tool, you can also check if the competitor has a GSA Schedule that may include pricing.  To find a competitor's GSA Schedule search for them either in the search bar at the top of the page or in the Awardee search in _Market Intelligence --> Awardees._ If the competitor has a GSA Schedule, it will be available in the Schedules section of the Awardee profile.
 
-![](../.gitbook/assets/gsa\_schedules.png)
+![](../.gitbook/assets/gsa_schedules.png)
 
 ### Contract-Level Labor Pricing
 
 For most federal labor contracts over $500,000 that are more than 18 months old, HigherGov tracks the applicable blended labor rate on the contract.   This will be available in the Labor Services Billing section on the federal contract award page.  These rates represent the average blended rate that the government paid for the services component of the contract as reported by the Awardee. &#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Product Pricing or Other Labor Categories
 

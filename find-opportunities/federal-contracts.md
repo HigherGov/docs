@@ -22,8 +22,8 @@ As you find potentially interesting contract opportunities, click the opportunit
 [saved-searches-and-alerts.md](../highergov-basics/saved-searches-and-alerts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../highergov-basics/favoriting-tracking-and-passing.md" %}
-[favoriting-tracking-and-passing.md](../highergov-basics/favoriting-tracking-and-passing.md)
+{% content-ref url="../highergov-basics/favoriting-tracking-and-no-bidding.md" %}
+[favoriting-tracking-and-no-bidding.md](../highergov-basics/favoriting-tracking-and-no-bidding.md)
 {% endcontent-ref %}
 
 ## Data Sources

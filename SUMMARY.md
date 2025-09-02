@@ -6,7 +6,7 @@
 
 * [Search Basics](highergov-basics/search-basics.md)
 * [Saved Searches and Alerts](highergov-basics/saved-searches-and-alerts.md)
-* [Favoriting, Tracking, and Passing](highergov-basics/favoriting-tracking-and-passing.md)
+* [Favoriting, Tracking, and No Bidding](highergov-basics/favoriting-tracking-and-no-bidding.md)
 * [Adding Users to Your Account](highergov-basics/adding-users-to-your-account.md)
 * [Daily Opportunity Emails](highergov-basics/daily-opportunity-emails.md)
 

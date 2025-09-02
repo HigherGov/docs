@@ -14,7 +14,7 @@ Grant opportunities are available on the Grant Opportunity Search page, which ca
 
 On this page, you can select the Add Filters dropdown to add filters to find the opportunities most relevant to your business (a full list is below). &#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you find potentially interesting grant opportunities, click the opportunity title to open up the Grant Opportunity detail page to see the opportunity description, history, related opportunities, documents, similar opportunities, potential applicants, and other details.  You can also favorite the opportunity by clicking the heart button to easily access it later by selecting the My Favorites filter.&#x20;
 
@@ -22,8 +22,8 @@ As you find potentially interesting grant opportunities, click the opportunity t
 [saved-searches-and-alerts.md](../highergov-basics/saved-searches-and-alerts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../highergov-basics/favoriting-tracking-and-passing.md" %}
-[favoriting-tracking-and-passing.md](../highergov-basics/favoriting-tracking-and-passing.md)
+{% content-ref url="../highergov-basics/favoriting-tracking-and-no-bidding.md" %}
+[favoriting-tracking-and-no-bidding.md](../highergov-basics/favoriting-tracking-and-no-bidding.md)
 {% endcontent-ref %}
 
 ## Data Sources
