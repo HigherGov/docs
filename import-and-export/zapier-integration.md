@@ -22,7 +22,7 @@ Zapier integration requires a HigherGov Standard or Leader plan subscription.  I
 To create a Zapier Pipeline you must have an active HigherGov subscription and be signed in as an Admin. &#x20;
 {% endhint %}
 
-Select the gear icon in the upper right of the platform and select Integrations or click [here](https://www.highergov.com/integration/).
+Select the gear icon in the upper right of the platform and select Zapier or click [here](https://www.highergov.com/zapier/).
 
 <div align="left"><figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure></div>
 
