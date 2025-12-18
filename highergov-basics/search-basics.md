@@ -54,6 +54,10 @@ Exclude Search
 
 * **physical security -training** -> Contains both _physical_ and _security_ and excludes _training_
 
+Complex Grouping
+
+* **(physical security or surveillance) (school or college) -training** -> Contains either _physical security_ or _surveillance_ and contains either _school_ or _college._  Does not include training.
+
 There is no limit on the number of keywords that can be joined in an "or" search.
 
 ## Other Ways to Search HigherGov
