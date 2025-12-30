@@ -6,24 +6,30 @@ description: Frequently Asked Questions
 
 ## What do the Export Limits Mean?
 
-Export limits apply only on a per-search basis. HigherGov has no monthly or team limits on the total number of records you can export.  So if your plan has an export limit of 10,000 records, you can export up to 10,000 records per search as many times as you would like.
+Export limits apply only on a per-search basis. HigherGov has no monthly or team limits on the total number of records you can export.  For example, if your plan has an export limit of 20,000 records, you can export up to 20,000 records per search, as many times as you like.
 
 Please see our [pricing plans](https://www.highergov.com/pricing/) for our current download limits. &#x20;
 
 ## What are Your Data Sources?
 
-HigherGov is the most comprehensive source of government data.  We collect data from 100s of federal data sources including SAM.GOV, DIBBS, PIIE, NECO, USASpending, GRANTS.GOV, FPDS, DSRS, FSRS, SBIR.GOV, GSA Advantage, and many more.  Some data that is otherwise not publicly available is also gathered exclusively by HigherGov via FOIA requests. Our analysts also build our own proprietary data sets (such as our Vehicle and M\&A data) to help connect government data and provide other key industry insights. &#x20;
+Please see an explanation of primary data sources [here](data-sources.md).
 
-In the State and Local market, we actively monitor more than 10,000 of the largest agencies in all 50 states and Washington D.C. &#x20;
+## How Often is Data Updated?
 
-In some cases, we also allow users to integrate their proprietary data into our system for their individual use using our [Task Order integration](../import-and-export/task-order-integration.md) feature.&#x20;
+Data from major sources is updated every 15 minutes.  Certain data sources may be updated less frequently, depending on government agency availability (for example, many agencies release acquisition forecasts only once a quarter). &#x20;
 
-If you have a question about where some of our data comes from, do not hesitate to ask.
+## Who are your subscribers?
+
+HigherGov supports everyone from companies entering the government market for the first time to a large percentage of the top 100 largest government contractors.  In total, our users were awarded over $200 billion in government awards in 2025.  We also support industry consultants, non-profits, government agencies, leaders, and investors in the government market.
+
+## Does HigherGov Offer Single Sign-On (SSO)?
+
+Yes, SSO is available for Standard and Leader Plan subscribers.  If you'd like to set up SSO for your organization, please contact us.
 
 ## What if I Have a Custom Research Request?
 
-While the vast majority of research use cases can be completed in our platform, if you have a unique or niche need, our analysts would be happy to discuss.  Please [contact us](mailto:contact@highergov.com) if you have any questions.
+While the vast majority of research use cases can be completed in our platform, if you have a unique or niche need, our analysts would be happy to discuss. Please [contact us](mailto:contact@highergov.com) if you have any questions.
 
-## Do You Accept Other Payment Methods Besides Credit Cards?
+## Do You Accept Payment Methods Besides Credit Cards?
 
-We also accept payment through ACH or wire transfers on a case-by-case basis.  Please [contact us](mailto:contact@highergov.com), if you require assistance.
+We also accept payment through ACH or wire transfer.  Please [contact us](mailto:contact@highergov.com), if you require assistance.
