@@ -1,6 +1,6 @@
 # AI Analysis
 
-HigherGov's AI Analysis tool allows you to perform instant advanced analysis on Federal and State & Local opportunities. It can answer questions using the opportunity description, opportunity metadata, attached documents, and other available HigherGov information. For company-specific analysis, such as gap analysis, it can also use a linked Federal profile or an uploaded capability statement.
+HigherGov's Opportunity Assistant tool allows you to perform instant AI analysis on Federal and State & Local opportunities. It can answer questions using the opportunity description, opportunity metadata, attached documents, and other available HigherGov information. For company-specific analysis, such as gap analysis, it can also use a linked Federal profile or an uploaded capability statement.
 
 AI Analysis is available on [**Federal Opportunity**](https://www.highergov.com/contract-opportunity/) pages and [**State & Local Opportunity**](https://www.highergov.com/sl/contract-opportunity/) pages.
 
