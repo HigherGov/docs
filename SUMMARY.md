@@ -45,6 +45,7 @@
 ## AI Tools and Accelerators
 
 * [AI Analysis](ai-tools-and-accelerators/ai-analysis.md)
+* [AI Proposal Drafting](ai-tools-and-accelerators/ai-proposal-drafting.md)
 
 ## Capital Markets
 
