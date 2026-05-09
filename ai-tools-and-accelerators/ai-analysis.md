@@ -4,6 +4,10 @@ HigherGov's AI Analysis tool allows you to perform instant advanced analysis on 
 
 AI Analysis is available on [**Federal Opportunity**](https://www.highergov.com/contract-opportunity/) pages and [**State & Local Opportunity**](https://www.highergov.com/sl/contract-opportunity/) pages.
 
+{% hint style="info" %}
+HigherGov does not use subscriber interactions or documents provided to any of our AI tools for model training.
+{% endhint %}
+
 ***
 
 ### Accessing AI Analysis
@@ -94,7 +98,17 @@ To link a company profile, go to the Link Awardee Profile section in the AI Sett
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-#### Company documents
+#### Company Documents
+
+You can add documents relevant to your company to enhance the AI analysis by providing additional information to inform gap analysis and similar inquiries.
+
+{% hint style="info" %}
+Documents uploaded to HigherGov are stored securely and not shared outside of your account
+{% endhint %}
+
+To upload company documents, first select the Opportunity Assistant button in the bottom right of an opportunity and select the option to Upload a capability statement or catalogue.  From there, you can drag and drop documents to the Company Documents section.  They will be available every time you use any of the AI tools unless you remove them.
+
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 You can upload company materials, such as:
 
