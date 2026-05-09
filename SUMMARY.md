@@ -42,6 +42,10 @@
 * [Market Analysis Tool](market-intelligence/market-analysis-tool.md)
 * [Analyze Contract Vehicles](market-intelligence/analyze-contract-vehicles.md)
 
+## AI Tools and Accelerators
+
+* [AI Analysis](ai-tools-and-accelerators/ai-analysis.md)
+
 ## Capital Markets
 
 * [Analyze M\&A Transactions and Trends](capital-markets/analyze-m-and-a-transactions-and-trends.md)

@@ -12,7 +12,7 @@ Identifying potential competing bidders for a contract or grant opportunity can 
 
 ### In Contract Opportunities
 
-Most Contract Opportunity pages will show an automatically generated list of potential competing bidders based on the agency, PSC, set-aside, and other details of the contract opportunity.  To find a contract opportunity enter the title or solicitation ID in the search bar at the top of each page or search for the Contract Opportunity in the [Contract Opportunity search](https://www.highergov.com/contract-opportunity/).  If a contract opportunity has not been publicly disclosed, see below for two other methods to identify potential bidders.
+Most Contract Opportunity pages will show an automatically generated list of potential competing bidders based on which companies have bid and won prior solicitations.  To find a contract opportunity enter the title or solicitation ID in the search bar at the top of each page or search for the Contract Opportunity in the [Contract Opportunity search](https://www.highergov.com/contract-opportunity/).  If a contract opportunity has not been publicly disclosed, see below for two other methods to identify potential bidders.
 
 ![](<../.gitbook/assets/Screenshot 2022-06-15 020940.png>)
 
