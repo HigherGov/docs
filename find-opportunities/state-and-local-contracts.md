@@ -30,7 +30,7 @@ As you find potentially interesting contract opportunities, click the opportunit
 
 ## Data Sources
 
-HigherGov integrates data from 40,000+ agencies across the state, local, education, and public utilities markets.  All of our subscriptions include access to opportunities in all 50 states, Washington D.C., and in U.S. territories.
+HigherGov integrates data from 60,000+ agencies across the state, local, education, and public utilities markets.  All of our subscriptions include access to opportunities in all 50 states, Washington D.C., and in U.S. territories.
 
 ## Available State and Local Contract Opportunity Search Filters
 
@@ -59,7 +59,7 @@ By selecting a contract opportunity, you can see the opportunity description and
 
 Opportunities will have a direct link to the source where you can learn additional information about the contract opportunity and details on how to apply. &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="federal-contracts.md" %}
 [federal-contracts.md](federal-contracts.md)

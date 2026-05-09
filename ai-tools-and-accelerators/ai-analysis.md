@@ -1,8 +1,8 @@
 # AI Analysis
 
-AI Analysis allows you to perform instant advanced analysis on Federal and State & Local opportunities. It can answer questions using the opportunity description, opportunity metadata, attached documents, and other available HigherGov information. For company-specific analysis, such as gap analysis, it can also use a linked Federal profile or an uploaded capability statement.
+HigherGov's AI Analysis tool allows you to perform instant advanced analysis on Federal and State & Local opportunities. It can answer questions using the opportunity description, opportunity metadata, attached documents, and other available HigherGov information. For company-specific analysis, such as gap analysis, it can also use a linked Federal profile or an uploaded capability statement.
 
-AI Analysis is available on **Federal Opportunity** pages and **State & Local Opportunity** pages.
+AI Analysis is available on [**Federal Opportunity**](https://www.highergov.com/contract-opportunity/) pages and [**State & Local Opportunity**](https://www.highergov.com/sl/contract-opportunity/) pages.
 
 ***
 
@@ -67,14 +67,16 @@ If you frequently ask the same type of question, you can save it as a reusable p
 
 To save a question:
 
-1. Click **+ Save Question** or **+ Add Question**.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+1. Click **+ Save Question**.
 2. Enter a short **Title**.
 3. Enter the full **Question / Prompt**.
 4. Click **Save Question**.
 
-Your saved question will appear as a reusable button in the AI Analysis area.
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Saving a question saves the prompt, not the AI-generated response.
+Your saved question will appear as a reusable button in the AI Analysis area.
 
 ***
 
@@ -84,9 +86,13 @@ Most opportunity documents are already attached to the opportunity in HigherGov.
 
 #### Federal company profile
 
-For Federal opportunities, you can link a **Federal company profile** so AI Analysis can use public company information associated with your organization.
+For Federal opportunities, you can link a **Federal company profile** so AI Analysis can use public company information including your award history and government registrations associated with your organization.
 
 This is useful for company-specific analysis, including fit assessments and gap analysis.
+
+To link a company profile, go to the Link Awardee Profile section in the AI Settings on your [profile page](https://www.highergov.com/profile/).
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Company documents
 
@@ -104,7 +110,7 @@ For gap analysis, AI Analysis needs either a linked Federal company profile or a
 
 If a document is not already available in HigherGov, you can upload it to the opportunity.
 
-For **State & Local opportunities**, if documents are not available, you may also see an option to **request documents** from the opportunity page.
+For **State & Local opportunities**, if documents are not available, you will see an option to **Request Documents** from the opportunity page.
 
 ***
 

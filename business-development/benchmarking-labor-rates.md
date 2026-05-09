@@ -51,7 +51,7 @@ If you need pricing for a particular competitor and it is not available in the p
 
 For most federal labor contracts over $500,000 that are more than 18 months old, HigherGov tracks the applicable blended labor rate on the contract.   This will be available in the Labor Services Billing section on the federal contract award page.  These rates represent the average blended rate that the government paid for the services component of the contract as reported by the Awardee. &#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Product Pricing or Other Labor Categories
 

@@ -38,11 +38,11 @@ If the item is updated or amended, you will receive an email that show any key c
 
 Opportunities, Forecasts, and Existing Award pages all have the option to mark the item as No Bid if you are not interested.   To market an item as No Bid, click the No Bid button once.  To revert, click the button again.  If the item is No Bid, a red Circle X will appear in the button.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 To remove No Bid items from your search results, select the Exclude No Bid dropdown in the relevant search.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If someone else on your team has No Bid on an opportunity, this will also be visible to you on the page under the navigation bar.
 

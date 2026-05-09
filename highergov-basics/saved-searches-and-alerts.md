@@ -16,7 +16,7 @@ On all Category Search pages on HigherGov, you can save searches by pressing the
 
 When saving a Search, you can opt-in to receive an email notification when there are new results.  To receive notifications, select a frequency under Email Notification Updates (Real Time, Daily, Weekly, or Monthly) when saving a search.   Note that Real Time alerts are only available for opportunity searches.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Example email notification</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example email notification</p></figcaption></figure>
 
 Saved Search Notifications are available for all search categories that receive frequent updates.  Stop future notifications by pressing the Unsubscribe link in the notification email or on the Saved Search page (see below).&#x20;
 
@@ -36,7 +36,7 @@ You can access your saved searches at any time by selecting the dropdown arrow n
 
 To update a saved search, run your new search and press Save as described above.  In the Search Name box either start typing the name of the search you would like to replace or select the dropdown arrow and the name of the search you would like to replace and press save. &#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Managing Saved Searches
 
