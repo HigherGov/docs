@@ -16,7 +16,7 @@ Contract opportunities are available on the Contract Opportunity Search page, wh
 
 On this page, you can select the Add Filters dropdown to add filters to find the opportunities most relevant to your business (a full list is below). &#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you find potentially interesting contract opportunities, click the opportunity title to open up the Contract Opportunity detail page to see the opportunity description, history, related solicitations, documents, similar opportunities, and other details. &#x20;
 
@@ -59,7 +59,7 @@ By selecting a contract opportunity, you can see the opportunity description and
 
 Opportunities will have a direct link to the source where you can learn additional information about the contract opportunity and details on how to apply. &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="federal-contracts.md" %}
 [federal-contracts.md](federal-contracts.md)

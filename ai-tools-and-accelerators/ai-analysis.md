@@ -71,14 +71,14 @@ If you frequently ask the same type of question, you can save it as a reusable p
 
 To save a question:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1. Click **+ Save Question**.
 2. Enter a short **Title**.
 3. Enter the full **Question / Prompt**.
 4. Click **Save Question**.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Your saved question will appear as a reusable button in the AI Analysis area.
 
@@ -96,7 +96,7 @@ This is useful for company-specific analysis, including fit assessments and gap 
 
 To link a company profile, go to the Link Awardee Profile section in the AI Settings on your [profile page](https://www.highergov.com/profile/).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Company Documents
 

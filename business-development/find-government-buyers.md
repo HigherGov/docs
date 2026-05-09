@@ -35,7 +35,7 @@ For State and Local Contracts, the recommended filters to add include (but are n
 
 The resulting search will provide a ranking of government buyers sorted by their Relevance in the filters you have selected.  You can click on the Awards or Opps buttons next to each row to see the Awards or Opportunities that the contracting officer is associated with. &#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are not finding many results, you can try removing or broadening filters.
 
@@ -53,5 +53,5 @@ By the time a solicitation has been released, it is often too late to provide re
 
 **Soughts Sought** Presolicitations and Sources Sought are semi-formal notices provided by the government typically looking for industry input and / or to create a list of potential vendors.  Currently actionable Sources Sought and Presolicitations can be found in the [contract opportunity](https://www.highergov.com/contract-opportunity/?searchID=AQCEyn2xtfnERQKg2qfgj) search by using the Opportunity Type filter.
 
-**Forecasts**  Federal agencies are required by law to publish forecasts of opportunities they plan to solicit in the future to provide small businesses insights on upcoming bids.  HigherGov tracks these [forecasts](https://www.highergov.com/contract-opportunity/?searchID=wdX8c0BMW7jbU4EgBAPYY#contract\_forecast) as part of its Federal Opportunities search. As forecasts are often released 6 months to 2 years ahead of a solicitation, they allow a contractor additional time to reach out to the relevant contracting officer (listed on the Forecast), prepare for the solicitation, or build a team. &#x20;
+**Forecasts**  Federal agencies are required by law to publish forecasts of opportunities they plan to solicit in the future to provide small businesses insights on upcoming bids.  HigherGov tracks these [forecasts](https://www.highergov.com/contract-opportunity/?searchID=wdX8c0BMW7jbU4EgBAPYY#contract_forecast) as part of its Federal Opportunities search. As forecasts are often released 6 months to 2 years ahead of a solicitation, they allow a contractor additional time to reach out to the relevant contracting officer (listed on the Forecast), prepare for the solicitation, or build a team. &#x20;
 

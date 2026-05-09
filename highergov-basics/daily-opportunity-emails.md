@@ -12,7 +12,7 @@ This document discusses setting up a daily email of new opportunities tailored t
 
 To receive a tailored daily email of new opportunities, select the gear icon in the upper right of the platform and select Profile (or click [here](https://www.highergov.com/profile/)).  HigherGov provides daily emails for Federal Contract Opportunities, State and Local Opportunities, and Federal Grant Opportunities.  To turn on the email select the desired switches.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note that you will only receive an email daily if there are new relevant results.
 
