@@ -25,7 +25,7 @@ We analyze marketing presence in the following 6 categories:
 
 For each of the 35+ criteria we analyze, we will indicate whether your organization is meeting best practices (as indicated with a blue checkmark) or indicate if there are potential improvements that can be made (indicated by an orange lightbulb).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

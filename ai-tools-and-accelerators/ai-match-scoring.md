@@ -47,7 +47,7 @@ Match Scoring is configured from your [Profile screen](https://www.highergov.com
 
 Go to the **AI Settings** section.
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 From this section, you can link a **Federal Awardee Profile** or upload a **Capability Statement**.
 

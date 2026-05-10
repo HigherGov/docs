@@ -59,7 +59,7 @@ By selecting a contract opportunity, you can see the opportunity description and
 
 Opportunities will have a direct link to the source where you can learn additional information about the contract opportunity and details on how to apply. &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="federal-contracts.md" %}
 [federal-contracts.md](federal-contracts.md)
