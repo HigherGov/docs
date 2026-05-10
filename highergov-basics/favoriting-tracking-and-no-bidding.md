@@ -42,7 +42,7 @@ Opportunities, Forecasts, and Existing Award pages all have the option to mark t
 
 To remove No Bid items from your search results, select the Exclude No Bid dropdown in the relevant search.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If someone else on your team has No Bid on an opportunity, this will also be visible to you on the page under the navigation bar.
 

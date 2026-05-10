@@ -47,7 +47,7 @@ Match Scoring is configured from your [Profile screen](https://www.highergov.com
 
 Go to the **AI Settings** section.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 From this section, you can link a **Federal Awardee Profile** or upload a **Capability Statement**.
 
@@ -77,21 +77,16 @@ Avoid relying heavily on marketing language or generic descriptions. A detailed,
 
 ### Using Match Score in opportunity search
 
-The Match Score option is available in search under **Add Filters** for:
+The Match core option is available in search under **Add Filters** for:
 
-* **Federal opportunities**
-* **State & Local opportunities**
+* **Federal Opportunities**
+* **State & Local Opportunities**
 
-Match Score works like other search filters, so you can combine it with filters such as:
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* Keywords
-* NAICS
-* PSC
-* Agency
-* Place of performance
-* Set-aside
-* Due date
-* Opportunity type
+Match Score works like other search filters, so you can combine it with filters such as agency or NAICS.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 After adding the Match Score filter, the search results will rank opportunities based on their Match Score, helping you prioritize opportunities that appear most aligned with the selected profile or uploaded capability statement within your filtered search.
 
@@ -100,6 +95,8 @@ After adding the Match Score filter, the search results will rank opportunities 
 ### Viewing the match rationale
 
 Each opportunity receives a score out of **100**.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Click the score to view the broad rationale for the ranking.
 
@@ -115,4 +112,4 @@ If your Match Scores do not look right, first review the linked profile or uploa
 
 For uploaded capability statements, make sure the document clearly explains what the company does and includes relevant NAICS, PSC, experience, and capability details where applicable.
 
-If results still need tweaking, contact HigherGov support using the chat.
+If results still need tweaking, contact HigherGov support using the chat and we can help to adjust.

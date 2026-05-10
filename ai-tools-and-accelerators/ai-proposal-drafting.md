@@ -27,7 +27,7 @@ Depending on the opportunity type, available documents, and opportunity stage, a
 
 After selecting a draft option, the **Customize Generation** window opens.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This screen lets you confirm or add the information HigherGov should use to generate the draft. The generator uses the selected context to create a stronger, more relevant proposal based on the opportunity requirements and your company’s capabilities.
 
@@ -41,7 +41,7 @@ This allows the generator to use publicly disclosed information including capabi
 
 Company Context includes documents and information about your business.  Selecting the Add Company Document(s) section will open the Document Library where you can add relevant documents.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 While not strictly necessary, we strongly encourage you to add relevant company documents before generating a draft. These materials help the generator tailor a winning proposal to your company’s capabilities, past experience, differentiators, and technical approach.
 
@@ -62,7 +62,7 @@ Company Context may include documents already available in HigherGov as well as 
 
 Opportunity Context includes documents specific to the opportunity.  Selecting the Opportunity Document(s) section will open the Document Library where you can add relevant documents.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 If an opportunity document is already available in HigherGov, you do not need to upload it again. If you have additional opportunity-specific documents that are not already in HigherGov, you can add them before generating.
 
@@ -100,7 +100,7 @@ From this page, select a proposal to open it.
 
 Use the **Export** dropdown in the proposal editor to download the proposal.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Available export formats include:
 

@@ -14,7 +14,7 @@ The below chart summarizes the hierarchy of federal contract awards. There are e
 
 In HigherGov, all Vehicle, IDV, Prime Award, and Sub Award pages will have an Award Hierarchy section that will show and link to the other relevant awards in the hierarchy.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Vehicle Awards
 
