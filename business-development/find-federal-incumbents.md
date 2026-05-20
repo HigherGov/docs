@@ -12,9 +12,14 @@ HigherGov will automatically search for incumbent and similar awards for new con
 
 Hover over the Similarity bar to see the matching features of the existing contract.  Click on the Award ID to learn more information about the contract. &#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Contracts may be classified as:
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
+* Incumbent: Performing substantially the same work as this opportunity
+* Closely Related: Performing very closely related work to this opportunity but not confirmed to be the incumbent contractor
+* Similar Work: Performing similar work to the opportunity
+* Limited Similarity: Has some overlap with this opportunity, such as capabilities, agency, or location but are substantially different in other ways
+
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 #### Searching Manually
 
