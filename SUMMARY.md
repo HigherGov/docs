@@ -74,5 +74,6 @@
 ## More
 
 * [FOIA Service](more/foia-service.md)
+* [Single Sign On](more/single-sign-on.md)
 * [Data Sources](more/data-sources.md)
 * [FAQ](more/faq.md)
