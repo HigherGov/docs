@@ -23,7 +23,7 @@ Examples of typical analyses that can be used with each type of analysis include
 
 The below shows an example of an analysis to find the most attractive NAICS codes for full & open contracts within HHS. &#x20;
 
-First looking at the [largest NAICS codes](/broken/pages/JjomKz3tXjgNcgelfsYw):
+First looking at the [largest NAICS codes](https://app.gitbook.com/s/RBQTVfbZC9vumHCn1Rm8/business-development):
 
 ![](../.gitbook/assets/naics_analysis.png)
 

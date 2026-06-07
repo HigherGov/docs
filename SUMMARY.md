@@ -67,7 +67,8 @@
 
 ## Import and Export
 
-* [API](more/api.md)
+* [HigherGov API](import-and-export/highergov-api.md)
+* [HigherGov MCP](import-and-export/highergov-mcp.md)
 * [Task Order Integration](import-and-export/task-order-integration.md)
 * [Zapier Integration](import-and-export/zapier-integration.md)
 

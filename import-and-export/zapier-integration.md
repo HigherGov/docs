@@ -79,7 +79,7 @@ You will receive a message shortly after adding, indicating that the Pursuit has
 ## Zapier API Endpoints
 
 {% hint style="info" %}
-The below covers the technical endpoints used to support the Zapier integration.  Documentation on the main HigherGov API endpoints is available [here](../more/api.md).
+The below covers the technical endpoints used to support the Zapier integration.  Documentation on the main HigherGov API endpoints is available [here](highergov-api.md).
 {% endhint %}
 
 ### Base URL
