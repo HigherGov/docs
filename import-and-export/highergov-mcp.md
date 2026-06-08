@@ -6,7 +6,7 @@ This feature is currently in beta.  If you have use cases not currently supporte
 
 ### Overview
 
-HigherGov’s MCP allows subscribers to access HigherGov data directly inside supported AI assistants and LLM tools for search, research, and analysis.
+HigherGov’s MCP allows subscribers to access HigherGov's comprehensive federal and state and local data directly inside supported AI assistants and LLM tools for search, research, and analysis.
 
 MCP stands for **Model Context Protocol**. It is a standard way for AI assistants to securely connect to external tools and data sources. With the HigherGov MCP, an LLM can search HigherGov opportunities, awards, contractors, documents, NSNs, and related records using natural language.
 
