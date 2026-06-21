@@ -1,9 +1,5 @@
 # HigherGov MCP
 
-{% hint style="info" %}
-This feature is currently in beta.  If you have use cases not currently supported, please feel free to send your suggestions to contact@highergov.com
-{% endhint %}
-
 ### Overview
 
 HigherGov’s MCP allows subscribers to access HigherGov's comprehensive federal and state and local data directly inside supported AI assistants and LLM tools for search, research, and analysis.
@@ -46,7 +42,11 @@ Authorization: Bearer YOUR_HIGHERGOV_API_KEY
 
 Some MCP clients support custom headers directly. If your client does, use the bearer-token method above.
 
-Some LLMs may also use the term Access Token or API Key.
+If your LLM does not support bearer tokens, you can also pass the api\_key as a parameter when setting the MCP endpoint.
+
+```
+https://www.highergov.com/mcp/?api_key=[api-key-here]
+```
 
 ***
 
