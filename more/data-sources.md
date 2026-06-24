@@ -4,7 +4,7 @@ description: HigherGov is the most comprehensive source of U.S. government data
 
 # Data Sources
 
-HigherGov aggregates and enriches data from hundreds of thousands of sources including public and proprietary data not available anywhere else–providing complete visibility into the government market. If you have any questions about our data that are not addressed below, please [contact us](mailto:contact@highergov.com).
+HigherGov aggregates and enriches data from hundreds of thousands of sources including public and proprietary analysis not available anywhere else–providing complete visibility into the government market. If you have any questions about our data that are not addressed below, please [contact us](mailto:contact@highergov.com).
 
 ## Public Data Sources
 
