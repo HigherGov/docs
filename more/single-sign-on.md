@@ -1,7 +1,7 @@
 # Single Sign-On
 
 {% hint style="info" %}
-Single Sign-On requires a Leader plan subscription.  If you would like to upgrade or learn more, please [contact us](mailto:contact@highergov.com).
+Single Sign-On requires a Standard or Leader plan subscription.  If you would like to upgrade or learn more, please [contact us](mailto:contact@highergov.com).
 {% endhint %}
 
 Single Sign-On improves security and convenience by letting users access HigherGov with their organization-managed credentials while centralizing authentication, access control, and user offboarding.
