@@ -1,6 +1,6 @@
 # AI Proposal Drafting
 
-HigherGov’s Proposal Generator is an advanced one-click solution for creating high quality opportunity-specific proposal drafts with minimal configuration. It leverages HigherGov’s extensive market intelligence database, opportunity documents, and company context to generate structured drafts that you can review, edit, and export.
+HigherGov’s Proposal Generator is an advanced one-click tool for creating high quality opportunity-specific proposal drafts with minimal configuration. It leverages HigherGov’s extensive market intelligence database, opportunity documents, and company context to generate structured drafts that you can review, edit, and export.
 
 Proposal Generation is available on [**Federal Opportunity**](https://www.highergov.com/contract-opportunity/) pages and [**State & Local Opportunity**](https://www.highergov.com/sl/contract-opportunity/) pages.
 
@@ -16,10 +16,12 @@ You can start proposal generation from the **Opportunity Assistant** in the bott
 
 Depending on the opportunity type, available documents, and opportunity stage, available draft options may include:
 
-* **Draft Sources Sought**
-* **Draft Proposal Outline**
-* **Draft Full Proposal**
-* **Draft Sole Source Response**
+* **Sources Sought:** Draft a response highlighting your company’s capabilities and relevant experience against the agency’s stated needs.
+* **Compliance Matrix:** Generate an Excel workbook organizing proposal requirements, submission instructions, and evaluation criteria.
+* **Proposal Outline:** Create a detailed outline structured around the solicitation’s instructions and requirements.
+* **Full Proposal:** Generate a proposal draft using opportunity requirements and available company context.
+* **Labor Pricing:** Generate an editable Excel workbook with labor categories, hours, and comparable benchmarks.
+* **Sole Source Response:** Draft a response addressing the agency’s sole-source justification and explaining your company’s ability to perform the work.
 
 ***
 
